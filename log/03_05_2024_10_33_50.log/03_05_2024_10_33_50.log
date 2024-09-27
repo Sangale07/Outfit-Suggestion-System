@@ -1,0 +1,5 @@
+[2024-03-05 10:33:57,356] 96 werkzeug -WARNING  * Debugger is active!
+[2024-03-05 10:33:57,362] 96 werkzeug -INFO  * Debugger PIN: 111-650-926
+[2024-03-05 10:33:58,072] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 10:33:58] "GET / HTTP/1.1" 200 -
+[2024-03-05 10:33:59,298] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 10:33:59] "GET /video HTTP/1.1" 200 -
+[2024-03-05 10:34:44,662] 96 werkzeug -INFO  * Detected change in 'd:\\devops\\project\\be project\\outfit recommendation\\app.py', reloading

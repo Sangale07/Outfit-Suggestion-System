@@ -1,0 +1,14 @@
+[2024-03-02 19:49:46,114] 224 werkzeug -WARNING  * Debugger is active!
+[2024-03-02 19:49:46,118] 224 werkzeug -INFO  * Debugger PIN: 420-491-295
+[2024-03-02 19:52:29,484] 224 werkzeug -INFO 127.0.0.1 - - [02/Mar/2024 19:52:29] "GET / HTTP/1.1" 200 -
+[2024-03-02 19:52:31,855] 73 root -INFO Data Frame Gathered
+[2024-03-02 19:52:32,251] 224 werkzeug -INFO 127.0.0.1 - - [02/Mar/2024 19:52:32] "POST / HTTP/1.1" 200 -
+[2024-03-02 19:52:32,275] 224 werkzeug -INFO 127.0.0.1 - - [02/Mar/2024 19:52:32] "[33mGET /static/example.jpg HTTP/1.1[0m" 404 -
+[2024-03-02 19:54:15,740] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\werkzeug\\wrappers\\__init__.py', reloading
+[2024-03-02 19:54:15,760] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\werkzeug\\wrappers\\request.py', reloading
+[2024-03-02 19:54:15,788] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\werkzeug\\sansio\\request.py', reloading
+[2024-03-02 19:54:15,812] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\werkzeug\\wrappers\\response.py', reloading
+[2024-03-02 19:54:15,844] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\werkzeug\\sansio\\response.py', reloading
+[2024-03-02 19:54:16,068] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\werkzeug\\datastructures\\__init__.py', reloading
+[2024-03-02 19:54:16,192] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\werkzeug\\utils.py', reloading
+[2024-03-02 19:54:16,284] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\werkzeug\\_internal.py', reloading

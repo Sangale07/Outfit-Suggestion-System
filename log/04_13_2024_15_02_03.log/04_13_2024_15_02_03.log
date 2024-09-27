@@ -1,0 +1,55 @@
+[2024-04-13 15:02:16,345] 224 werkzeug -WARNING  * Debugger is active!
+[2024-04-13 15:02:16,365] 224 werkzeug -INFO  * Debugger PIN: 589-365-646
+[2024-04-13 15:02:16,568] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\idlelib\\idle_test\\test_configdialog.py', reloading
+[2024-04-13 15:02:16,568] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\idlelib\\idle_test\\test_configdialog.py', reloading
+[2024-04-13 15:02:16,594] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\holoviews\\element\\raster.py', reloading
+[2024-04-13 15:02:16,631] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\holoviews\\element\\sankey.py', reloading
+[2024-04-13 15:02:16,639] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\idlelib\\idle_test\\test_debugger.py', reloading
+[2024-04-13 15:02:16,639] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\idlelib\\idle_test\\test_debugger.py', reloading
+[2024-04-13 15:02:16,649] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\idlelib\\idle_test\\test_debugger_r.py', reloading
+[2024-04-13 15:02:16,649] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\idlelib\\idle_test\\test_debugger_r.py', reloading
+[2024-04-13 15:02:16,659] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\holoviews\\element\\stats.py', reloading
+[2024-04-13 15:02:16,670] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\idlelib\\idle_test\\test_debugobj.py', reloading
+[2024-04-13 15:02:16,670] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\idlelib\\idle_test\\test_debugobj.py', reloading
+[2024-04-13 15:02:16,683] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\holoviews\\element\\tabular.py', reloading
+[2024-04-13 15:02:16,688] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\idlelib\\idle_test\\test_debugobj_r.py', reloading
+[2024-04-13 15:02:16,690] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\idlelib\\idle_test\\test_debugobj_r.py', reloading
+[2024-04-13 15:02:16,704] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\idlelib\\idle_test\\test_delegator.py', reloading
+[2024-04-13 15:02:16,704] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\idlelib\\idle_test\\test_delegator.py', reloading
+[2024-04-13 15:02:16,708] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\holoviews\\element\\tiles.py', reloading
+[2024-04-13 15:02:16,719] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\idlelib\\idle_test\\test_editmenu.py', reloading
+[2024-04-13 15:02:16,719] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\idlelib\\idle_test\\test_editmenu.py', reloading
+[2024-04-13 15:02:16,753] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\idlelib\\idle_test\\test_editor.py', reloading
+[2024-04-13 15:02:16,753] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\idlelib\\idle_test\\test_editor.py', reloading
+[2024-04-13 15:02:16,753] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\huggingface_hub\\__init__.py', reloading
+[2024-04-13 15:02:16,790] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\idlelib\\idle_test\\test_filelist.py', reloading
+[2024-04-13 15:02:16,790] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\idlelib\\idle_test\\test_filelist.py', reloading
+[2024-04-13 15:02:16,842] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\hvplot\\__init__.py', reloading
+[2024-04-13 15:02:16,843] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\idlelib\\idle_test\\test_format.py', reloading
+[2024-04-13 15:02:16,844] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\idlelib\\idle_test\\test_format.py', reloading
+[2024-04-13 15:02:16,856] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\hyperlink\\__init__.py', reloading
+[2024-04-13 15:02:16,896] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\hyperlink\\_url.py', reloading
+[2024-04-13 15:02:16,929] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\idlelib\\idle_test\\test_grep.py', reloading
+[2024-04-13 15:02:16,931] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\idlelib\\idle_test\\test_grep.py', reloading
+[2024-04-13 15:02:16,989] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\idna\\__init__.py', reloading
+[2024-04-13 15:02:16,994] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\idlelib\\idle_test\\test_help.py', reloading
+[2024-04-13 15:02:16,997] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\idlelib\\idle_test\\test_help.py', reloading
+[2024-04-13 15:02:17,074] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\idlelib\\idle_test\\test_help_about.py', reloading
+[2024-04-13 15:02:17,085] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\idlelib\\idle_test\\test_help_about.py', reloading
+[2024-04-13 15:02:17,085] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\idna\\core.py', reloading
+[2024-04-13 15:02:17,158] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\idna\\intranges.py', reloading
+[2024-04-13 15:02:17,167] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\idlelib\\idle_test\\test_history.py', reloading
+[2024-04-13 15:02:17,167] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\idlelib\\idle_test\\test_history.py', reloading
+[2024-04-13 15:02:17,183] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\imagecodecs\\__init__.py', reloading
+[2024-04-13 15:02:17,221] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\idlelib\\idle_test\\test_hyperparser.py', reloading
+[2024-04-13 15:02:17,222] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\idlelib\\idle_test\\test_hyperparser.py', reloading
+[2024-04-13 15:02:17,226] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\imagecodecs\\imagecodecs.py', reloading
+[2024-04-13 15:02:17,306] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\idlelib\\idle_test\\test_iomenu.py', reloading
+[2024-04-13 15:02:17,306] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\idlelib\\idle_test\\test_iomenu.py', reloading
+[2024-04-13 15:02:17,309] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\imageio\\__init__.py', reloading
+[2024-04-13 15:02:17,377] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\idlelib\\idle_test\\test_macosx.py', reloading
+[2024-04-13 15:02:17,378] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\idlelib\\idle_test\\test_macosx.py', reloading
+[2024-04-13 15:02:17,442] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\idlelib\\idle_test\\test_mainmenu.py', reloading
+[2024-04-13 15:02:17,443] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\idlelib\\idle_test\\test_mainmenu.py', reloading
+[2024-04-13 15:02:17,505] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\idlelib\\idle_test\\test_multicall.py', reloading
+[2024-04-13 15:02:17,509] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\idlelib\\idle_test\\test_multicall.py', reloading

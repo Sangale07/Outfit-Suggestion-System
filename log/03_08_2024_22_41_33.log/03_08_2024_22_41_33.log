@@ -1,0 +1,52 @@
+[2024-03-08 22:41:47,831] 224 werkzeug -WARNING  * Debugger is active!
+[2024-03-08 22:41:47,852] 224 werkzeug -INFO  * Debugger PIN: 589-365-646
+[2024-03-08 22:41:47,984] 73 root -INFO Data Frame Gathered
+[2024-03-08 22:41:48,035] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\xmlrpc\\server.py', reloading
+[2024-03-08 22:41:48,037] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\xmlrpc\\server.py', reloading
+[2024-03-08 22:41:48,126] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Scripts\\2to3-script.py', reloading
+[2024-03-08 22:41:48,127] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Scripts\\2to3-script.py', reloading
+[2024-03-08 22:41:48,147] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Scripts\\idle-script.py', reloading
+[2024-03-08 22:41:48,148] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Scripts\\idle-script.py', reloading
+[2024-03-08 22:41:48,162] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Scripts\\pip-script.py', reloading
+[2024-03-08 22:41:48,163] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Scripts\\pip-script.py', reloading
+[2024-03-08 22:41:48,167] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Scripts\\pip3-script.py', reloading
+[2024-03-08 22:41:48,167] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Scripts\\pip3-script.py', reloading
+[2024-03-08 22:41:48,186] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Scripts\\pydoc-script.py', reloading
+[2024-03-08 22:41:48,187] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Scripts\\pydoc-script.py', reloading
+[2024-03-08 22:41:48,215] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Scripts\\wheel-script.py', reloading
+[2024-03-08 22:41:48,215] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Scripts\\wheel-script.py', reloading
+[2024-03-08 22:41:48,245] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Tools\\demo\\beer.py', reloading
+[2024-03-08 22:41:48,246] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Tools\\demo\\beer.py', reloading
+[2024-03-08 22:41:48,286] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Tools\\demo\\eiffel.py', reloading
+[2024-03-08 22:41:48,286] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Tools\\demo\\eiffel.py', reloading
+[2024-03-08 22:41:48,307] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Tools\\demo\\hanoi.py', reloading
+[2024-03-08 22:41:48,307] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Tools\\demo\\hanoi.py', reloading
+[2024-03-08 22:41:48,337] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Tools\\demo\\life.py', reloading
+[2024-03-08 22:41:48,338] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Tools\\demo\\life.py', reloading
+[2024-03-08 22:41:48,367] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Tools\\demo\\markov.py', reloading
+[2024-03-08 22:41:48,368] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Tools\\demo\\markov.py', reloading
+[2024-03-08 22:41:48,393] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Tools\\demo\\mcast.py', reloading
+[2024-03-08 22:41:48,394] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Tools\\demo\\mcast.py', reloading
+[2024-03-08 22:41:48,422] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Tools\\demo\\queens.py', reloading
+[2024-03-08 22:41:48,423] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Tools\\demo\\queens.py', reloading
+[2024-03-08 22:41:48,466] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Tools\\demo\\redemo.py', reloading
+[2024-03-08 22:41:48,467] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Tools\\demo\\redemo.py', reloading
+[2024-03-08 22:41:48,498] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Tools\\demo\\rpython.py', reloading
+[2024-03-08 22:41:48,499] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Tools\\demo\\rpython.py', reloading
+[2024-03-08 22:41:48,520] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Tools\\demo\\rpythond.py', reloading
+[2024-03-08 22:41:48,522] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Tools\\demo\\rpythond.py', reloading
+[2024-03-08 22:41:48,552] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Tools\\demo\\sortvisu.py', reloading
+[2024-03-08 22:41:48,553] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Tools\\demo\\sortvisu.py', reloading
+[2024-03-08 22:41:48,635] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Tools\\demo\\ss1.py', reloading
+[2024-03-08 22:41:48,636] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Tools\\demo\\ss1.py', reloading
+[2024-03-08 22:41:48,642] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\sklearn\\base.py', reloading
+[2024-03-08 22:41:48,788] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Tools\\demo\\vector.py', reloading
+[2024-03-08 22:41:48,791] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Tools\\demo\\vector.py', reloading
+[2024-03-08 22:41:48,829] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Tools\\i18n\\makelocalealias.py', reloading
+[2024-03-08 22:41:48,830] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Tools\\i18n\\makelocalealias.py', reloading
+[2024-03-08 22:41:48,858] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Tools\\i18n\\msgfmt.py', reloading
+[2024-03-08 22:41:48,860] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Tools\\i18n\\msgfmt.py', reloading
+[2024-03-08 22:41:48,899] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Tools\\i18n\\pygettext.py', reloading
+[2024-03-08 22:41:48,899] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Tools\\i18n\\pygettext.py', reloading
+[2024-03-08 22:41:48,968] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Tools\\parser\\unparse.py', reloading
+[2024-03-08 22:41:48,968] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Tools\\parser\\unparse.py', reloading

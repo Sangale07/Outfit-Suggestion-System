@@ -1,0 +1,35 @@
+[2024-03-02 19:49:23,451] 224 werkzeug -WARNING  * Debugger is active!
+[2024-03-02 19:49:23,455] 224 werkzeug -INFO  * Debugger PIN: 420-491-295
+[2024-03-02 19:49:23,507] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\jinja2\\filters.py', reloading
+[2024-03-02 19:49:23,543] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\jinja2\\idtracking.py', reloading
+[2024-03-02 19:49:23,575] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\jinja2\\lexer.py', reloading
+[2024-03-02 19:49:23,611] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\jinja2\\loaders.py', reloading
+[2024-03-02 19:49:23,635] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\jinja2\\meta.py', reloading
+[2024-03-02 19:49:23,651] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\jinja2\\nativetypes.py', reloading
+[2024-03-02 19:49:23,679] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\jinja2\\nodes.py', reloading
+[2024-03-02 19:49:23,739] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\jinja2\\optimizer.py', reloading
+[2024-03-02 19:49:23,763] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\jinja2\\parser.py', reloading
+[2024-03-02 19:49:23,811] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\jinja2\\runtime.py', reloading
+[2024-03-02 19:49:23,847] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\jinja2\\sandbox.py', reloading
+[2024-03-02 19:49:23,871] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\jinja2\\tests.py', reloading
+[2024-03-02 19:49:23,899] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\jinja2\\utils.py', reloading
+[2024-03-02 19:49:23,935] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\jinja2\\visitor.py', reloading
+[2024-03-02 19:49:23,955] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\joblib\\__init__.py', reloading
+[2024-03-02 19:49:23,971] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\joblib\\_cloudpickle_wrapper.py', reloading
+[2024-03-02 19:49:23,987] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\joblib\\_dask.py', reloading
+[2024-03-02 19:49:24,031] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\joblib\\_memmapping_reducer.py', reloading
+[2024-03-02 19:49:24,059] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\joblib\\_multiprocessing_helpers.py', reloading
+[2024-03-02 19:49:24,079] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\joblib\\_parallel_backends.py', reloading
+[2024-03-02 19:49:24,107] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\joblib\\_store_backends.py', reloading
+[2024-03-02 19:49:24,147] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\joblib\\_utils.py', reloading
+[2024-03-02 19:49:24,167] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\joblib\\backports.py', reloading
+[2024-03-02 19:49:24,195] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\joblib\\compressor.py', reloading
+[2024-03-02 19:49:24,235] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\joblib\\disk.py', reloading
+[2024-03-02 19:49:24,255] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\joblib\\executor.py', reloading
+[2024-03-02 19:49:24,279] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\joblib\\func_inspect.py', reloading
+[2024-03-02 19:49:24,307] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\joblib\\hashing.py', reloading
+[2024-03-02 19:49:24,327] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\joblib\\logger.py', reloading
+[2024-03-02 19:49:24,359] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\joblib\\memory.py', reloading
+[2024-03-02 19:49:24,411] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\joblib\\numpy_pickle.py', reloading
+[2024-03-02 19:49:24,455] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\joblib\\numpy_pickle_compat.py', reloading
+[2024-03-02 19:49:24,487] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\joblib\\numpy_pickle_utils.py', reloading

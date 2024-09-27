@@ -1,0 +1,6 @@
+[2024-05-01 20:44:49,486] 224 werkzeug -WARNING  * Debugger is active!
+[2024-05-01 20:44:49,507] 224 werkzeug -INFO  * Debugger PIN: 118-119-026
+[2024-05-01 20:45:26,384] 224 werkzeug -INFO 127.0.0.1 - - [01/May/2024 20:45:26] "GET / HTTP/1.1" 200 -
+[2024-05-01 20:45:27,744] 224 werkzeug -INFO 127.0.0.1 - - [01/May/2024 20:45:27] "GET /video HTTP/1.1" 200 -
+[2024-05-01 20:45:27,798] 224 werkzeug -INFO 127.0.0.1 - - [01/May/2024 20:45:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-05-01 20:46:42,531] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\_pytest\\cacheprovider.py', reloading

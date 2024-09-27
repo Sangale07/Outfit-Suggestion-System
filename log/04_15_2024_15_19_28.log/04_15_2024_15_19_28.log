@@ -1,0 +1,5 @@
+[2024-04-15 15:19:52,467] 224 werkzeug -WARNING  * Debugger is active!
+[2024-04-15 15:19:52,485] 224 werkzeug -INFO  * Debugger PIN: 589-365-646
+[2024-04-15 15:19:53,027] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\ensurepip\\__init__.py', reloading
+[2024-04-15 15:19:53,134] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\ensurepip\\__main__.py', reloading
+[2024-04-15 15:19:53,135] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\ensurepip\\__main__.py', reloading

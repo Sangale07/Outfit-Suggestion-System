@@ -1,0 +1,15 @@
+[2024-03-03 11:58:53,674] 96 werkzeug -WARNING  * Debugger is active!
+[2024-03-03 11:58:53,679] 96 werkzeug -INFO  * Debugger PIN: 274-803-487
+[2024-03-03 11:59:10,233] 73 root -INFO Data Frame Gathered
+[2024-03-03 11:59:11,214] 96 werkzeug -INFO 127.0.0.1 - - [03/Mar/2024 11:59:11] "POST / HTTP/1.1" 200 -
+[2024-03-03 11:59:11,249] 96 werkzeug -INFO 127.0.0.1 - - [03/Mar/2024 11:59:11] "[36mGET /static/Rectangular/1.jpg HTTP/1.1[0m" 304 -
+[2024-03-03 11:59:11,251] 96 werkzeug -INFO 127.0.0.1 - - [03/Mar/2024 11:59:11] "[36mGET /static/Rectangular/2.jpg HTTP/1.1[0m" 304 -
+[2024-03-03 11:59:11,257] 96 werkzeug -INFO 127.0.0.1 - - [03/Mar/2024 11:59:11] "[36mGET /static/Rectangular/3.jpg HTTP/1.1[0m" 304 -
+[2024-03-03 11:59:11,259] 96 werkzeug -INFO 127.0.0.1 - - [03/Mar/2024 11:59:11] "[36mGET /static/Rectangular/4.png HTTP/1.1[0m" 304 -
+[2024-03-03 11:59:39,116] 73 root -INFO Data Frame Gathered
+[2024-03-03 11:59:39,168] 96 werkzeug -INFO 127.0.0.1 - - [03/Mar/2024 11:59:39] "POST / HTTP/1.1" 200 -
+[2024-03-03 11:59:39,183] 96 werkzeug -INFO 127.0.0.1 - - [03/Mar/2024 11:59:39] "[36mGET /static/Rectangular/1.jpg HTTP/1.1[0m" 304 -
+[2024-03-03 11:59:39,185] 96 werkzeug -INFO 127.0.0.1 - - [03/Mar/2024 11:59:39] "[36mGET /static/Rectangular/2.jpg HTTP/1.1[0m" 304 -
+[2024-03-03 11:59:39,190] 96 werkzeug -INFO 127.0.0.1 - - [03/Mar/2024 11:59:39] "[36mGET /static/Rectangular/3.jpg HTTP/1.1[0m" 304 -
+[2024-03-03 11:59:39,191] 96 werkzeug -INFO 127.0.0.1 - - [03/Mar/2024 11:59:39] "[36mGET /static/Rectangular/4.png HTTP/1.1[0m" 304 -
+[2024-03-03 11:59:52,196] 96 werkzeug -INFO 127.0.0.1 - - [03/Mar/2024 11:59:52] "GET / HTTP/1.1" 200 -

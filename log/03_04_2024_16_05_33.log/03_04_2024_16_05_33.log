@@ -1,0 +1,80 @@
+[2024-03-04 16:05:39,959] 96 werkzeug -WARNING  * Debugger is active!
+[2024-03-04 16:05:39,971] 96 werkzeug -INFO  * Debugger PIN: 274-803-487
+[2024-03-04 16:06:12,732] 73 root -INFO Data Frame Gathered
+[2024-03-04 16:06:13,125] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:06:13] "POST / HTTP/1.1" 200 -
+[2024-03-04 16:06:13,153] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:06:13] "[36mGET /static/Hourglass/1.png HTTP/1.1[0m" 304 -
+[2024-03-04 16:06:13,161] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:06:13] "[36mGET /static/Hourglass/2.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 16:06:13,165] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:06:13] "GET /static/Hourglass/3.jpg HTTP/1.1" 200 -
+[2024-03-04 16:06:13,165] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:06:13] "GET /static/Hourglass/4.jpeg HTTP/1.1" 200 -
+[2024-03-04 16:06:31,111] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:06:31] "GET / HTTP/1.1" 200 -
+[2024-03-04 16:07:02,025] 73 root -INFO Data Frame Gathered
+[2024-03-04 16:07:02,085] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:07:02] "POST / HTTP/1.1" 200 -
+[2024-03-04 16:07:02,113] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:07:02] "GET /static/Pearmen/3.jpg HTTP/1.1" 200 -
+[2024-03-04 16:07:02,117] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:07:02] "GET /static/Pearmen/4.jpg HTTP/1.1" 200 -
+[2024-03-04 16:07:02,122] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:07:02] "GET /static/Pearmen/1.jpeg HTTP/1.1" 200 -
+[2024-03-04 16:07:02,126] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:07:02] "GET /static/Pearmen/2.png HTTP/1.1" 200 -
+[2024-03-04 16:07:08,549] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:07:08] "GET / HTTP/1.1" 200 -
+[2024-03-04 16:07:32,285] 73 root -INFO Data Frame Gathered
+[2024-03-04 16:07:32,344] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:07:32] "POST / HTTP/1.1" 200 -
+[2024-03-04 16:07:32,364] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:07:32] "[36mGET /static/Pearmen/1.jpeg HTTP/1.1[0m" 304 -
+[2024-03-04 16:07:32,372] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:07:32] "[36mGET /static/Pearmen/2.png HTTP/1.1[0m" 304 -
+[2024-03-04 16:07:32,376] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:07:32] "[36mGET /static/Pearmen/3.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 16:07:32,380] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:07:32] "[36mGET /static/Pearmen/4.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 16:11:04,266] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:11:04] "GET / HTTP/1.1" 200 -
+[2024-03-04 16:11:21,415] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:11:21] "GET / HTTP/1.1" 200 -
+[2024-03-04 16:11:22,238] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:11:22] "GET /video HTTP/1.1" 200 -
+[2024-03-04 16:11:46,848] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:11:46] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[2024-03-04 16:11:46,884] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:11:46] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-04 16:11:46,892] 96 werkzeug -ERROR Error on request:
+Traceback (most recent call last):
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\werkzeug\debug\__init__.py", line 330, in debug_application
+    app_iter = self.app(environ, start_response)
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\flask-3.0.2-py3.8.egg\flask\app.py", line 1488, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\flask-3.0.2-py3.8.egg\flask\app.py", line 1466, in wsgi_app
+    response = self.handle_exception(e)
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\flask-3.0.2-py3.8.egg\flask\app.py", line 1463, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\flask-3.0.2-py3.8.egg\flask\app.py", line 872, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\flask-3.0.2-py3.8.egg\flask\app.py", line 870, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\flask-3.0.2-py3.8.egg\flask\app.py", line 855, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "d:\DevOps\Project\BE Project\Outfit Recommendation\app.py", line 100, in predict_datapoint
+    Age =int(request.form.get('Age')),
+ValueError: invalid literal for int() with base 10: ''
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\werkzeug\serving.py", line 362, in run_wsgi
+    execute(self.server.app)
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\werkzeug\serving.py", line 325, in execute
+    for data in application_iter:
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\werkzeug\debug\__init__.py", line 365, in debug_application
+    environ["wsgi.errors"].write("".join(tb.render_traceback_text()))
+OSError: [WinError 6] The handle is invalid
+[2024-03-04 16:11:46,901] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:11:46] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-04 16:11:46,961] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:11:46] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-04 16:11:46,997] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:11:46] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-04 16:12:19,037] 73 root -INFO Data Frame Gathered
+[2024-03-04 16:12:19,105] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:12:19] "POST / HTTP/1.1" 200 -
+[2024-03-04 16:12:19,141] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:12:19] "[36mGET /static/vshapemen/1.jpeg HTTP/1.1[0m" 304 -
+[2024-03-04 16:12:19,145] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:12:19] "[36mGET /static/vshapemen/2.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 16:12:19,145] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:12:19] "[36mGET /static/vshapemen/4.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 16:12:19,149] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:12:19] "[36mGET /static/vshapemen/3.jpeg HTTP/1.1[0m" 304 -
+[2024-03-04 16:12:39,996] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:12:39] "GET / HTTP/1.1" 200 -
+[2024-03-04 16:12:55,870] 73 root -INFO Data Frame Gathered
+[2024-03-04 16:12:55,941] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:12:55] "POST / HTTP/1.1" 200 -
+[2024-03-04 16:12:55,965] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:12:55] "[36mGET /static/vshapemen/1.jpeg HTTP/1.1[0m" 304 -
+[2024-03-04 16:12:55,973] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:12:55] "[36mGET /static/vshapemen/2.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 16:12:55,980] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:12:55] "[36mGET /static/vshapemen/3.jpeg HTTP/1.1[0m" 304 -
+[2024-03-04 16:12:55,982] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:12:55] "[36mGET /static/vshapemen/4.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 16:13:32,261] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:13:32] "GET / HTTP/1.1" 200 -
+[2024-03-04 16:13:39,245] 73 root -INFO Data Frame Gathered
+[2024-03-04 16:13:39,301] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:13:39] "POST / HTTP/1.1" 200 -
+[2024-03-04 16:13:39,325] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:13:39] "[36mGET /static/vshapemen/1.jpeg HTTP/1.1[0m" 304 -
+[2024-03-04 16:13:39,329] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:13:39] "[36mGET /static/vshapemen/2.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 16:13:39,333] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:13:39] "[36mGET /static/vshapemen/3.jpeg HTTP/1.1[0m" 304 -
+[2024-03-04 16:13:39,338] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 16:13:39] "[36mGET /static/vshapemen/4.jpg HTTP/1.1[0m" 304 -

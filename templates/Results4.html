@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>display results</title>
+    <style>
+        body {background-color: #d0d6d6;font-family: 'Lexend Deca', Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+
+.container {
+  width: 50%;
+  height: 550px;
+  border-radius: 5px;
+  background-color: #8d8f90;
+  padding: 20px;
+  /* display: flex; */
+  text-align: center;
+  margin-top:auto;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+h1 {
+	margin: 1em 0 0.5em 0;
+	color: #343434;
+	font-weight: normal;
+	font-family: 'Trebuchet MS', sans-serif;
+	font-size: 36px;
+	line-height: 42px;
+	text-transform: uppercase;
+	/* text-shadow: 0 2px white, 0 3px #777; */
+	text-align: center;
+
+}
+
+    h2 {
+	margin: 1em 0 0.5em 0;
+	color: #343434;
+	font-weight: normal;
+	font-family: 'Trebuchet MS', sans-serif;
+	font-size: 36px;
+	line-height: 42px;
+	text-transform: uppercase;
+	/* text-shadow: 0 2px white, 0 3px #777; */
+	text-align: center;
+    display: inline-block;
+
+}
+
+h3 {
+	margin: 1em 0 0.5em 0;
+	color: #343434;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 40px;
+	font-family: 'Trebuchet MS', sans-serif;
+	text-align: center;
+}
+
+
+    .preview-image {
+        height: 180px;
+        width: 20%;
+        margin: 1em 0 0.5em 0;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        padding-left: 10px; 
+        padding-right: 10px; 
+      }
+    </style>
+</head>
+<body>
+    <h1>Clothing Style Suggestions</h1>
+
+    <div class="container" >
+       
+        <!-- <h4>{{ pred }}</h4> -->
+        
+       <div class="prediction">
+        <h3>Darker colors on bottom Clothing</h3>
+        <h3>Lighter colors on top Clothing</h3>
+        <h3>Jackets</h3>
+        <h3>Straight-leg Styles</h3>
+        {% for imagelist in imagelist %}
+        <img class="preview-image" src = "{{ url_for('static', filename=imagelist)}}">
+        
+        {% endfor %}
+        </div>
+</div>
+
+</body>
+</html>

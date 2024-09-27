@@ -1,0 +1,6 @@
+[2024-05-01 20:46:53,534] 224 werkzeug -WARNING  * Debugger is active!
+[2024-05-01 20:46:53,546] 224 werkzeug -INFO  * Debugger PIN: 118-119-026
+[2024-05-01 20:50:17,443] 224 werkzeug -INFO 127.0.0.1 - - [01/May/2024 20:50:17] "GET / HTTP/1.1" 200 -
+[2024-05-01 20:50:17,884] 224 werkzeug -INFO 127.0.0.1 - - [01/May/2024 20:50:17] "GET /video HTTP/1.1" 200 -
+[2024-05-01 20:50:42,976] 73 root -INFO Data Frame Gathered
+[2024-05-01 20:50:43,526] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\sklearn\\base.py', reloading

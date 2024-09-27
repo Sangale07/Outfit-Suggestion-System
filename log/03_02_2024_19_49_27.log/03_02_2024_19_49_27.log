@@ -1,0 +1,44 @@
+[2024-03-02 19:49:29,819] 224 werkzeug -WARNING  * Debugger is active!
+[2024-03-02 19:49:29,823] 224 werkzeug -INFO  * Debugger PIN: 420-491-295
+[2024-03-02 19:49:29,851] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\axes\\_secondary_axes.py', reloading
+[2024-03-02 19:49:29,863] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\backends\\__init__.py', reloading
+[2024-03-02 19:49:29,871] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\backends\\_backend_gtk.py', reloading
+[2024-03-02 19:49:29,899] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\backends\\_backend_pdf_ps.py', reloading
+[2024-03-02 19:49:29,911] 224 werkzeug -INFO 127.0.0.1 - - [02/Mar/2024 19:49:29] "GET / HTTP/1.1" 200 -
+[2024-03-02 19:49:29,927] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\backends\\_backend_tk.py', reloading
+[2024-03-02 19:49:29,979] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\backends\\backend_agg.py', reloading
+[2024-03-02 19:49:30,007] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\backends\\backend_cairo.py', reloading
+[2024-03-02 19:49:30,043] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\backends\\backend_gtk3.py', reloading
+[2024-03-02 19:49:30,063] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\backends\\backend_gtk3agg.py', reloading
+[2024-03-02 19:49:30,079] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\backends\\backend_gtk3cairo.py', reloading
+[2024-03-02 19:49:30,095] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\backends\\backend_gtk4.py', reloading
+[2024-03-02 19:49:30,131] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\backends\\backend_gtk4agg.py', reloading
+[2024-03-02 19:49:30,147] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\backends\\backend_gtk4cairo.py', reloading
+[2024-03-02 19:49:30,155] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\backends\\backend_macosx.py', reloading
+[2024-03-02 19:49:30,175] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\backends\\backend_mixed.py', reloading
+[2024-03-02 19:49:30,191] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\backends\\backend_nbagg.py', reloading
+[2024-03-02 19:49:30,215] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\backends\\backend_pdf.py', reloading
+[2024-03-02 19:49:30,291] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\backends\\backend_pgf.py', reloading
+[2024-03-02 19:49:30,319] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\backends\\backend_ps.py', reloading
+[2024-03-02 19:49:30,363] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\backends\\backend_qt.py', reloading
+[2024-03-02 19:49:30,391] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\backends\\backend_qt5.py', reloading
+[2024-03-02 19:49:30,403] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\backends\\backend_qt5agg.py', reloading
+[2024-03-02 19:49:30,415] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\backends\\backend_qt5cairo.py', reloading
+[2024-03-02 19:49:30,427] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\backends\\backend_qtagg.py', reloading
+[2024-03-02 19:49:30,447] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\backends\\backend_qtcairo.py', reloading
+[2024-03-02 19:49:30,471] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\backends\\backend_svg.py', reloading
+[2024-03-02 19:49:30,507] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\backends\\backend_template.py', reloading
+[2024-03-02 19:49:30,523] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\backends\\backend_tkagg.py', reloading
+[2024-03-02 19:49:30,535] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\backends\\backend_tkcairo.py', reloading
+[2024-03-02 19:49:30,547] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\backends\\backend_webagg.py', reloading
+[2024-03-02 19:49:30,575] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\backends\\backend_webagg_core.py', reloading
+[2024-03-02 19:49:30,603] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\backends\\backend_wx.py', reloading
+[2024-03-02 19:49:30,663] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\backends\\backend_wxagg.py', reloading
+[2024-03-02 19:49:30,675] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\backends\\backend_wxcairo.py', reloading
+[2024-03-02 19:49:30,695] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\backends\\qt_compat.py', reloading
+[2024-03-02 19:49:30,723] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\backends\\qt_editor\\_formlayout.py', reloading
+[2024-03-02 19:49:30,747] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\backends\\qt_editor\\figureoptions.py', reloading
+[2024-03-02 19:49:30,771] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\cbook\\__init__.py', reloading
+[2024-03-02 19:49:30,819] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\projections\\__init__.py', reloading
+[2024-03-02 19:49:30,831] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\matplotlib\\projections\\geo.py', reloading
+[2024-03-02 19:49:31,116] 224 werkzeug -INFO 127.0.0.1 - - [02/Mar/2024 19:49:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -

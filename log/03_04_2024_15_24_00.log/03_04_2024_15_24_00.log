@@ -1,0 +1,17 @@
+[2024-03-04 15:24:05,116] 96 werkzeug -WARNING  * Debugger is active!
+[2024-03-04 15:24:05,124] 96 werkzeug -INFO  * Debugger PIN: 274-803-487
+[2024-03-04 15:24:06,743] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:24:06] "GET / HTTP/1.1" 200 -
+[2024-03-04 15:24:11,969] 73 root -INFO Data Frame Gathered
+[2024-03-04 15:24:12,135] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:24:12] "POST / HTTP/1.1" 200 -
+[2024-03-04 15:24:12,159] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:24:12] "[36mGET /static/Hourglass/1.png HTTP/1.1[0m" 304 -
+[2024-03-04 15:24:12,161] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:24:12] "[36mGET /static/Hourglass/2.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:24:12,168] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:24:12] "[36mGET /static/Hourglass/3.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:24:12,169] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:24:12] "[36mGET /static/Hourglass/4.png HTTP/1.1[0m" 304 -
+[2024-03-04 15:24:14,263] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:24:14] "GET / HTTP/1.1" 200 -
+[2024-03-04 15:24:16,118] 73 root -INFO Data Frame Gathered
+[2024-03-04 15:24:16,169] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:24:16] "POST / HTTP/1.1" 200 -
+[2024-03-04 15:24:16,185] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:24:16] "[36mGET /static/vshape/1.png HTTP/1.1[0m" 304 -
+[2024-03-04 15:24:16,191] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:24:16] "[36mGET /static/vshape/2.png HTTP/1.1[0m" 304 -
+[2024-03-04 15:24:16,196] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:24:16] "[36mGET /static/vshape/3.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:24:16,199] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:24:16] "[36mGET /static/vshape/4.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:24:34,822] 96 werkzeug -INFO  * Detected change in 'd:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\app.py', reloading

@@ -1,0 +1,9 @@
+[2024-03-02 18:12:27,930] 96 werkzeug -WARNING  * Debugger is active!
+[2024-03-02 18:12:27,935] 96 werkzeug -INFO  * Debugger PIN: 274-803-487
+[2024-03-02 18:12:33,086] 77 root -INFO Error Occured In Predict Pipline
+[2024-03-02 18:12:33,109] 96 werkzeug -INFO 127.0.0.1 - - [02/Mar/2024 18:12:33] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[2024-03-02 18:12:33,130] 96 werkzeug -INFO 127.0.0.1 - - [02/Mar/2024 18:12:33] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-02 18:12:33,135] 96 werkzeug -INFO 127.0.0.1 - - [02/Mar/2024 18:12:33] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-02 18:12:33,154] 96 werkzeug -INFO 127.0.0.1 - - [02/Mar/2024 18:12:33] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-02 18:12:33,184] 96 werkzeug -INFO 127.0.0.1 - - [02/Mar/2024 18:12:33] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-02 18:13:06,630] 96 werkzeug -INFO  * Detected change in 'd:\\devops\\project\\be project\\outfit recommendation\\src\\pipelines\\prediction_pipeline.py', reloading

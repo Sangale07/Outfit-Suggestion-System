@@ -1,0 +1,9 @@
+[2024-03-04 15:29:05,260] 96 werkzeug -WARNING  * Debugger is active!
+[2024-03-04 15:29:05,266] 96 werkzeug -INFO  * Debugger PIN: 274-803-487
+[2024-03-04 15:29:06,070] 73 root -INFO Data Frame Gathered
+[2024-03-04 15:29:06,296] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:29:06] "POST / HTTP/1.1" 200 -
+[2024-03-04 15:29:06,311] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:29:06] "[36mGET /static/vshape/1.png HTTP/1.1[0m" 304 -
+[2024-03-04 15:29:06,316] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:29:06] "[36mGET /static/vshape/2.png HTTP/1.1[0m" 304 -
+[2024-03-04 15:29:06,318] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:29:06] "[36mGET /static/vshape/3.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:29:06,323] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:29:06] "[36mGET /static/vshape/4.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:29:20,186] 96 werkzeug -INFO  * Detected change in 'd:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\app.py', reloading

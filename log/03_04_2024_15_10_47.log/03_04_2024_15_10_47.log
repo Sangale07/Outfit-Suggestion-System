@@ -1,0 +1,33 @@
+[2024-03-04 15:10:52,477] 96 werkzeug -WARNING  * Debugger is active!
+[2024-03-04 15:10:52,487] 96 werkzeug -INFO  * Debugger PIN: 274-803-487
+[2024-03-04 15:10:55,196] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:10:55] "GET / HTTP/1.1" 200 -
+[2024-03-04 15:10:56,231] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:10:56] "GET /video HTTP/1.1" 200 -
+[2024-03-04 15:11:34,435] 73 root -INFO Data Frame Gathered
+[2024-03-04 15:11:34,643] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:11:34] "POST / HTTP/1.1" 200 -
+[2024-03-04 15:11:34,668] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:11:34] "[36mGET /static/Hourglass/1.png HTTP/1.1[0m" 304 -
+[2024-03-04 15:11:34,671] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:11:34] "[36mGET /static/Hourglass/2.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:11:34,674] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:11:34] "[36mGET /static/Hourglass/3.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:11:34,678] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:11:34] "[36mGET /static/Hourglass/4.png HTTP/1.1[0m" 304 -
+[2024-03-04 15:11:41,696] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:11:41] "GET / HTTP/1.1" 200 -
+[2024-03-04 15:11:47,104] 73 root -INFO Data Frame Gathered
+[2024-03-04 15:11:47,164] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:11:47] "POST / HTTP/1.1" 200 -
+[2024-03-04 15:11:47,185] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:11:47] "[36mGET /static/vshapemen/1.jpeg HTTP/1.1[0m" 304 -
+[2024-03-04 15:11:47,194] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:11:47] "[36mGET /static/vshapemen/2.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:11:47,200] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:11:47] "[36mGET /static/vshapemen/3.jpeg HTTP/1.1[0m" 304 -
+[2024-03-04 15:11:47,203] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:11:47] "[36mGET /static/vshapemen/4.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:12:06,219] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:12:06] "GET / HTTP/1.1" 200 -
+[2024-03-04 15:13:20,793] 73 root -INFO Data Frame Gathered
+[2024-03-04 15:13:20,845] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:13:20] "POST / HTTP/1.1" 200 -
+[2024-03-04 15:13:20,862] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:13:20] "[36mGET /static/Rectangular/1.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:13:20,868] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:13:20] "[36mGET /static/Rectangular/2.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:13:20,870] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:13:20] "[36mGET /static/Rectangular/3.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:13:20,875] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:13:20] "[36mGET /static/Rectangular/4.png HTTP/1.1[0m" 304 -
+[2024-03-04 15:13:25,123] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:13:25] "GET / HTTP/1.1" 200 -
+[2024-03-04 15:13:29,818] 73 root -INFO Data Frame Gathered
+[2024-03-04 15:13:29,866] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:13:29] "POST / HTTP/1.1" 200 -
+[2024-03-04 15:13:29,885] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:13:29] "[36mGET /static/Rectangular/1.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:13:29,889] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:13:29] "[36mGET /static/Rectangular/2.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:13:29,893] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:13:29] "[36mGET /static/Rectangular/3.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:13:29,896] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:13:29] "[36mGET /static/Rectangular/4.png HTTP/1.1[0m" 304 -
+[2024-03-04 15:14:07,908] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:14:07] "GET / HTTP/1.1" 200 -
+[2024-03-04 15:14:34,142] 96 werkzeug -INFO  * Detected change in 'd:\\devops\\project\\be project\\outfit recommendation\\app.py', reloading

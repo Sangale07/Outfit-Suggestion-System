@@ -1,0 +1,49 @@
+[2024-04-15 15:20:52,358] 224 werkzeug -WARNING  * Debugger is active!
+[2024-04-15 15:20:52,389] 224 werkzeug -INFO  * Debugger PIN: 589-365-646
+[2024-04-15 15:20:52,475] 224 werkzeug -INFO 127.0.0.1 - - [15/Apr/2024 15:20:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-04-15 15:20:52,502] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\_reqs.py', reloading
+[2024-04-15 15:20:52,502] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\_reqs.py', reloading
+[2024-04-15 15:20:52,530] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\archive_util.py', reloading
+[2024-04-15 15:20:52,531] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\archive_util.py', reloading
+[2024-04-15 15:20:52,572] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\build_meta.py', reloading
+[2024-04-15 15:20:52,572] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\build_meta.py', reloading
+[2024-04-15 15:20:52,610] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\dep_util.py', reloading
+[2024-04-15 15:20:52,610] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\dep_util.py', reloading
+[2024-04-15 15:20:52,632] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\depends.py', reloading
+[2024-04-15 15:20:52,632] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\depends.py', reloading
+[2024-04-15 15:20:52,664] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\discovery.py', reloading
+[2024-04-15 15:20:52,665] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\discovery.py', reloading
+[2024-04-15 15:20:52,719] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\dist.py', reloading
+[2024-04-15 15:20:52,720] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\dist.py', reloading
+[2024-04-15 15:20:52,812] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\errors.py', reloading
+[2024-04-15 15:20:52,813] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\errors.py', reloading
+[2024-04-15 15:20:52,839] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\extension.py', reloading
+[2024-04-15 15:20:52,839] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\extension.py', reloading
+[2024-04-15 15:20:52,879] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\glob.py', reloading
+[2024-04-15 15:20:52,880] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\glob.py', reloading
+[2024-04-15 15:20:52,914] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\installer.py', reloading
+[2024-04-15 15:20:52,915] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\installer.py', reloading
+[2024-04-15 15:20:52,938] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\launch.py', reloading
+[2024-04-15 15:20:52,938] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\launch.py', reloading
+[2024-04-15 15:20:52,946] 224 werkzeug -INFO 127.0.0.1 - - [15/Apr/2024 15:20:52] "GET /video HTTP/1.1" 200 -
+[2024-04-15 15:20:52,966] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\logging.py', reloading
+[2024-04-15 15:20:52,968] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\logging.py', reloading
+[2024-04-15 15:20:53,005] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\monkey.py', reloading
+[2024-04-15 15:20:53,006] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\monkey.py', reloading
+[2024-04-15 15:20:53,053] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\msvc.py', reloading
+[2024-04-15 15:20:53,055] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\msvc.py', reloading
+[2024-04-15 15:20:53,096] 224 werkzeug -INFO 127.0.0.1 - - [15/Apr/2024 15:20:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-04-15 15:20:53,183] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\namespaces.py', reloading
+[2024-04-15 15:20:53,184] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\namespaces.py', reloading
+[2024-04-15 15:20:53,231] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\package_index.py', reloading
+[2024-04-15 15:20:53,232] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\package_index.py', reloading
+[2024-04-15 15:20:53,337] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\py312compat.py', reloading
+[2024-04-15 15:20:53,338] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\py312compat.py', reloading
+[2024-04-15 15:20:53,373] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\sandbox.py', reloading
+[2024-04-15 15:20:53,374] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\sandbox.py', reloading
+[2024-04-15 15:20:53,454] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\unicode_utils.py', reloading
+[2024-04-15 15:20:53,454] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\unicode_utils.py', reloading
+[2024-04-15 15:20:53,472] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\version.py', reloading
+[2024-04-15 15:20:53,472] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\version.py', reloading
+[2024-04-15 15:20:53,493] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\warnings.py', reloading
+[2024-04-15 15:20:53,494] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\warnings.py', reloading

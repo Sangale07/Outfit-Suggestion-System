@@ -1,0 +1,18 @@
+[2024-05-02 17:54:19,858] 224 werkzeug -WARNING  * Debugger is active!
+[2024-05-02 17:54:19,876] 224 werkzeug -INFO  * Debugger PIN: 118-119-026
+[2024-05-02 17:54:21,922] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\setup.py', reloading
+[2024-05-02 17:54:21,924] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\setup.py', reloading
+[2024-05-02 17:54:21,942] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\__future__.py', reloading
+[2024-05-02 17:54:21,942] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\__future__.py', reloading
+[2024-05-02 17:54:21,961] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\__phello__.foo.py', reloading
+[2024-05-02 17:54:21,961] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\__phello__.foo.py', reloading
+[2024-05-02 17:54:22,001] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\_bootlocale.py', reloading
+[2024-05-02 17:54:22,001] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\_bootlocale.py', reloading
+[2024-05-02 17:54:22,022] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\_collections_abc.py', reloading
+[2024-05-02 17:54:22,022] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\_collections_abc.py', reloading
+[2024-05-02 17:54:22,093] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\_compat_pickle.py', reloading
+[2024-05-02 17:54:22,093] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\_compat_pickle.py', reloading
+[2024-05-02 17:54:22,124] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\_compression.py', reloading
+[2024-05-02 17:54:22,124] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\_compression.py', reloading
+[2024-05-02 17:54:22,152] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\_dummy_thread.py', reloading
+[2024-05-02 17:54:22,152] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\_dummy_thread.py', reloading

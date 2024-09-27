@@ -1,0 +1,40 @@
+[2024-04-13 15:03:44,932] 224 werkzeug -WARNING  * Debugger is active!
+[2024-04-13 15:03:44,951] 224 werkzeug -INFO  * Debugger PIN: 589-365-646
+[2024-04-13 15:03:45,075] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py', reloading
+[2024-04-13 15:03:45,080] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py', reloading
+[2024-04-13 15:03:45,122] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py', reloading
+[2024-04-13 15:03:45,122] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py', reloading
+[2024-04-13 15:03:45,140] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\__init__.py', reloading
+[2024-04-13 15:03:45,140] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\__init__.py', reloading
+[2024-04-13 15:03:45,198] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_parser.py', reloading
+[2024-04-13 15:03:45,198] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_parser.py', reloading
+[2024-04-13 15:03:45,263] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_re.py', reloading
+[2024-04-13 15:03:45,263] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_re.py', reloading
+[2024-04-13 15:03:45,282] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_types.py', reloading
+[2024-04-13 15:03:45,283] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_types.py', reloading
+[2024-04-13 15:03:45,303] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\command\\__init__.py', reloading
+[2024-04-13 15:03:45,303] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\command\\__init__.py', reloading
+[2024-04-13 15:03:45,333] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\command\\_requirestxt.py', reloading
+[2024-04-13 15:03:45,334] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\command\\_requirestxt.py', reloading
+[2024-04-13 15:03:45,366] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\command\\alias.py', reloading
+[2024-04-13 15:03:45,366] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\command\\alias.py', reloading
+[2024-04-13 15:03:45,435] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\command\\bdist_egg.py', reloading
+[2024-04-13 15:03:45,435] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\command\\bdist_egg.py', reloading
+[2024-04-13 15:03:45,550] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\command\\bdist_rpm.py', reloading
+[2024-04-13 15:03:45,551] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\command\\bdist_rpm.py', reloading
+[2024-04-13 15:03:45,587] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\command\\build.py', reloading
+[2024-04-13 15:03:45,587] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\command\\build.py', reloading
+[2024-04-13 15:03:45,635] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\command\\build_clib.py', reloading
+[2024-04-13 15:03:45,638] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\command\\build_clib.py', reloading
+[2024-04-13 15:03:45,731] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\command\\build_ext.py', reloading
+[2024-04-13 15:03:45,731] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\command\\build_ext.py', reloading
+[2024-04-13 15:03:45,845] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\command\\build_py.py', reloading
+[2024-04-13 15:03:45,846] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\command\\build_py.py', reloading
+[2024-04-13 15:03:45,909] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\command\\develop.py', reloading
+[2024-04-13 15:03:45,909] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\command\\develop.py', reloading
+[2024-04-13 15:03:45,953] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\command\\dist_info.py', reloading
+[2024-04-13 15:03:45,953] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\command\\dist_info.py', reloading
+[2024-04-13 15:03:46,018] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\setuptools\\command\\easy_install.py', reloading
+[2024-04-13 15:03:46,019] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\setuptools\\command\\easy_install.py', reloading
+[2024-04-13 15:03:46,085] 224 werkzeug -INFO 127.0.0.1 - - [13/Apr/2024 15:03:46] "GET /video HTTP/1.1" 200 -
+[2024-04-13 15:03:46,357] 224 werkzeug -INFO 127.0.0.1 - - [13/Apr/2024 15:03:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -

@@ -1,0 +1,38 @@
+[2024-03-05 11:00:45,258] 96 werkzeug -WARNING  * Debugger is active!
+[2024-03-05 11:00:45,258] 96 werkzeug -INFO  * Debugger PIN: 111-650-926
+[2024-03-05 11:00:46,002] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:00:46] "GET / HTTP/1.1" 200 -
+[2024-03-05 11:00:47,219] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:00:47] "[35m[1mGET /video HTTP/1.1[0m" 500 -
+[2024-03-05 11:00:47,225] 96 werkzeug -ERROR Error on request:
+Traceback (most recent call last):
+  File "d:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\werkzeug\debug\__init__.py", line 331, in debug_application
+    yield from app_iter
+  File "d:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\werkzeug\wsgi.py", line 256, in __next__
+    return self._next()
+  File "d:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\werkzeug\wrappers\response.py", line 32, in _iter_encoded
+    for item in iterable:
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\app.py", line 78, in generate_frames
+    f.write(final_measurements.append(measurements[value]))
+KeyError: 0.3731121434496516
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "d:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\werkzeug\debug\__init__.py", line 353, in debug_application
+    yield from response(environ, start_response)
+  File "d:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\werkzeug\wrappers\response.py", line 579, in __call__
+    start_response(status, headers)
+  File "d:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\werkzeug\serving.py", line 317, in start_response
+    raise AssertionError("Headers already set")
+AssertionError: Headers already set
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "d:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\werkzeug\serving.py", line 362, in run_wsgi
+    execute(self.server.app)
+  File "d:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\werkzeug\serving.py", line 325, in execute
+    for data in application_iter:
+  File "d:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\werkzeug\debug\__init__.py", line 359, in debug_application
+    environ["wsgi.errors"].write(
+OSError: [WinError 6] The handle is invalid
+[2024-03-05 11:01:20,657] 96 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\app.py', reloading

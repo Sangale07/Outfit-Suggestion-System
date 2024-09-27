@@ -1,0 +1,6 @@
+[2024-05-01 21:11:11,223] 224 werkzeug -WARNING  * Debugger is active!
+[2024-05-01 21:11:11,241] 224 werkzeug -INFO  * Debugger PIN: 118-119-026
+[2024-05-01 21:11:38,235] 224 werkzeug -INFO  * Detected change in 'c:\\Users\\user\\Desktop\\BE Project\\app.py', reloading
+[2024-05-01 21:11:38,235] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\app.py', reloading
+[2024-05-01 21:11:38,241] 224 werkzeug -INFO  * Detected change in 'c:\\Users\\user\\Desktop\\BE Project\\app.py', reloading
+[2024-05-01 21:11:38,242] 224 werkzeug -INFO  * Detected change in 'c:\\Users\\user\\Desktop\\BE Project\\app.py', reloading

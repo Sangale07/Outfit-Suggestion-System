@@ -1,0 +1,36 @@
+[2024-04-15 15:20:27,917] 224 werkzeug -WARNING  * Debugger is active!
+[2024-04-15 15:20:27,975] 224 werkzeug -INFO  * Debugger PIN: 589-365-646
+[2024-04-15 15:20:28,705] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\pip\\_vendor\\chardet\\langgreekmodel.py', reloading
+[2024-04-15 15:20:28,707] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\pip\\_vendor\\chardet\\langgreekmodel.py', reloading
+[2024-04-15 15:20:28,770] 224 werkzeug -INFO 127.0.0.1 - - [15/Apr/2024 15:20:28] "GET / HTTP/1.1" 200 -
+[2024-04-15 15:20:28,771] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\scipy\\signal\\_waveforms.py', reloading
+[2024-04-15 15:20:28,792] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\scipy\\signal\\_bsplines.py', reloading
+[2024-04-15 15:20:28,807] 224 werkzeug -INFO 127.0.0.1 - - [15/Apr/2024 15:20:28] "GET / HTTP/1.1" 200 -
+[2024-04-15 15:20:28,826] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\scipy\\signal\\_filter_design.py', reloading
+[2024-04-15 15:20:28,920] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\pip\\_vendor\\chardet\\langhebrewmodel.py', reloading
+[2024-04-15 15:20:28,920] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\pip\\_vendor\\chardet\\langhebrewmodel.py', reloading
+[2024-04-15 15:20:28,939] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\scipy\\signal\\_fir_filter_design.py', reloading
+[2024-04-15 15:20:29,090] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\scipy\\signal\\_ltisys.py', reloading
+[2024-04-15 15:20:29,180] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\pip\\_vendor\\chardet\\langhungarianmodel.py', reloading
+[2024-04-15 15:20:29,180] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\pip\\_vendor\\chardet\\langhungarianmodel.py', reloading
+[2024-04-15 15:20:29,187] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\scipy\\signal\\_lti_conversion.py', reloading
+[2024-04-15 15:20:29,244] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\scipy\\signal\\_signaltools.py', reloading
+[2024-04-15 15:20:29,286] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\pip\\_vendor\\chardet\\langrussianmodel.py', reloading
+[2024-04-15 15:20:29,286] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\pip\\_vendor\\chardet\\langrussianmodel.py', reloading
+[2024-04-15 15:20:29,344] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\scipy\\signal\\_spectral_py.py', reloading
+[2024-04-15 15:20:29,403] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\scipy\\signal\\_wavelets.py', reloading
+[2024-04-15 15:20:29,415] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\pip\\_vendor\\chardet\\langthaimodel.py', reloading
+[2024-04-15 15:20:29,415] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\pip\\_vendor\\chardet\\langthaimodel.py', reloading
+[2024-04-15 15:20:29,492] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\scipy\\signal\\_peak_finding.py', reloading
+[2024-04-15 15:20:29,546] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\scipy\\signal\\_czt.py', reloading
+[2024-04-15 15:20:29,547] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\pip\\_vendor\\chardet\\langturkishmodel.py', reloading
+[2024-04-15 15:20:29,548] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\pip\\_vendor\\chardet\\langturkishmodel.py', reloading
+[2024-04-15 15:20:29,578] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\scipy\\spatial\\__init__.py', reloading
+[2024-04-15 15:20:29,621] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\pip\\_vendor\\chardet\\latin1prober.py', reloading
+[2024-04-15 15:20:29,622] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\pip\\_vendor\\chardet\\latin1prober.py', reloading
+[2024-04-15 15:20:29,630] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\scipy\\spatial\\_kdtree.py', reloading
+[2024-04-15 15:20:29,658] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\pip\\_vendor\\chardet\\macromanprober.py', reloading
+[2024-04-15 15:20:29,659] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\pip\\_vendor\\chardet\\macromanprober.py', reloading
+[2024-04-15 15:20:29,717] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\pip\\_vendor\\chardet\\mbcharsetprober.py', reloading
+[2024-04-15 15:20:29,718] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\pip\\_vendor\\chardet\\mbcharsetprober.py', reloading
+[2024-04-15 15:20:29,720] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\scipy\\spatial\\_plotutils.py', reloading

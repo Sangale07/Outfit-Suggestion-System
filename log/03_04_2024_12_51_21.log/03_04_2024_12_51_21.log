@@ -1,0 +1,10 @@
+[2024-03-04 12:51:29,114] 96 werkzeug -WARNING  * Debugger is active!
+[2024-03-04 12:51:29,122] 96 werkzeug -INFO  * Debugger PIN: 274-803-487
+[2024-03-04 12:51:30,084] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 12:51:30] "GET / HTTP/1.1" 200 -
+[2024-03-04 12:51:31,011] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 12:51:31] "GET /video HTTP/1.1" 200 -
+[2024-03-04 12:52:16,058] 73 root -INFO Data Frame Gathered
+[2024-03-04 12:52:17,245] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 12:52:17] "POST / HTTP/1.1" 200 -
+[2024-03-04 12:52:17,278] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 12:52:17] "[36mGET /static/vshape/2.png HTTP/1.1[0m" 304 -
+[2024-03-04 12:52:17,278] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 12:52:17] "[36mGET /static/vshape/1.jpeg HTTP/1.1[0m" 304 -
+[2024-03-04 12:52:17,283] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 12:52:17] "[36mGET /static/vshape/3.jpeg HTTP/1.1[0m" 304 -
+[2024-03-04 12:52:17,290] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 12:52:17] "[36mGET /static/vshape/4.jpg HTTP/1.1[0m" 304 -

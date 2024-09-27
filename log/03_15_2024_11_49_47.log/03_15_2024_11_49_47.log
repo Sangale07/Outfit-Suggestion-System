@@ -1,0 +1,15 @@
+[2024-03-15 11:49:52,506] 224 werkzeug -WARNING  * Debugger is active!
+[2024-03-15 11:49:52,523] 224 werkzeug -INFO  * Debugger PIN: 589-365-646
+[2024-03-15 11:50:01,001] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\conda\\deprecations.py', reloading
+[2024-03-15 11:50:01,001] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\conda\\models\\enums.py', reloading
+[2024-03-15 11:50:01,001] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\conda\\gateways\\disk\\create.py', reloading
+[2024-03-15 11:50:01,017] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\conda\\core\\prefix_data.py', reloading
+[2024-03-15 11:50:01,017] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\conda\\history.py', reloading
+[2024-03-15 11:50:01,017] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\conda\\core\\solve.py', reloading
+[2024-03-15 11:50:01,032] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\conda\\plugins\\types.py', reloading
+[2024-03-15 11:50:01,032] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\conda\\plugins\\hookspec.py', reloading
+[2024-03-15 11:50:01,032] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\conda\\plugins\\__init__.py', reloading
+[2024-03-15 11:50:01,054] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\conda\\base\\context.py', reloading
+[2024-03-15 11:50:01,054] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\conda\\cli\\conda_argparse.py', reloading
+[2024-03-15 11:50:01,054] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\conda\\cli\\main.py', reloading
+[2024-03-15 11:50:01,054] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\conda\\exception_handler.py', reloading

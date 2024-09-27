@@ -1,0 +1,95 @@
+[2024-03-15 11:05:41,955] 224 werkzeug -WARNING  * Debugger is active!
+[2024-03-15 11:05:41,970] 224 werkzeug -INFO  * Debugger PIN: 589-365-646
+[2024-03-15 11:05:42,796] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:05:42] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[2024-03-15 11:05:43,027] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:05:43] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2024-03-15 11:05:43,029] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:05:43] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2024-03-15 11:05:43,184] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:05:43] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2024-03-15 11:05:43,232] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:05:43] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-15 11:05:52,245] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:05:52] "GET / HTTP/1.1" 200 -
+[2024-03-15 11:05:52,771] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:05:52] "GET /video HTTP/1.1" 200 -
+[2024-03-15 11:06:08,933] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:06:08] "GET / HTTP/1.1" 200 -
+[2024-03-15 11:06:09,052] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:06:09] "GET /video HTTP/1.1" 200 -
+[2024-03-15 11:06:31,798] 73 root -INFO Data Frame Gathered
+[2024-03-15 11:06:32,542] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:06:32] "POST / HTTP/1.1" 200 -
+[2024-03-15 11:06:32,614] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:06:32] "GET /static/vshapemen/1.jpeg HTTP/1.1" 200 -
+[2024-03-15 11:06:32,632] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:06:32] "GET /static/vshapemen/2.jpg HTTP/1.1" 200 -
+[2024-03-15 11:06:32,642] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:06:32] "GET /static/vshapemen/3.jpeg HTTP/1.1" 200 -
+[2024-03-15 11:06:32,656] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:06:32] "GET /static/vshapemen/4.jpg HTTP/1.1" 200 -
+[2024-03-15 11:08:11,938] 73 root -INFO Data Frame Gathered
+[2024-03-15 11:08:12,322] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:08:12] "POST / HTTP/1.1" 200 -
+[2024-03-15 11:08:12,412] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:08:12] "[36mGET /static/vshapemen/1.jpeg HTTP/1.1[0m" 304 -
+[2024-03-15 11:08:12,421] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:08:12] "[36mGET /static/vshapemen/2.jpg HTTP/1.1[0m" 304 -
+[2024-03-15 11:08:12,430] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:08:12] "[36mGET /static/vshapemen/3.jpeg HTTP/1.1[0m" 304 -
+[2024-03-15 11:08:12,435] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:08:12] "[36mGET /static/vshapemen/4.jpg HTTP/1.1[0m" 304 -
+[2024-03-15 11:08:16,019] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:08:16] "GET / HTTP/1.1" 200 -
+[2024-03-15 11:08:16,240] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:08:16] "GET /video HTTP/1.1" 200 -
+[2024-03-15 11:08:31,054] 73 root -INFO Data Frame Gathered
+[2024-03-15 11:08:31,341] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:08:31] "POST / HTTP/1.1" 200 -
+[2024-03-15 11:08:31,393] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:08:31] "[36mGET /static/vshapemen/1.jpeg HTTP/1.1[0m" 304 -
+[2024-03-15 11:08:31,396] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:08:31] "[36mGET /static/vshapemen/2.jpg HTTP/1.1[0m" 304 -
+[2024-03-15 11:08:31,401] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:08:31] "[36mGET /static/vshapemen/3.jpeg HTTP/1.1[0m" 304 -
+[2024-03-15 11:08:31,402] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:08:31] "[36mGET /static/vshapemen/4.jpg HTTP/1.1[0m" 304 -
+[2024-03-15 11:08:36,327] 73 root -INFO Data Frame Gathered
+[2024-03-15 11:08:36,639] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:08:36] "POST / HTTP/1.1" 200 -
+[2024-03-15 11:08:36,680] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:08:36] "[36mGET /static/vshapemen/1.jpeg HTTP/1.1[0m" 304 -
+[2024-03-15 11:08:36,686] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:08:36] "[36mGET /static/vshapemen/2.jpg HTTP/1.1[0m" 304 -
+[2024-03-15 11:08:36,703] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:08:36] "[36mGET /static/vshapemen/3.jpeg HTTP/1.1[0m" 304 -
+[2024-03-15 11:08:36,703] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:08:36] "[36mGET /static/vshapemen/4.jpg HTTP/1.1[0m" 304 -
+[2024-03-15 11:08:46,078] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:08:46] "GET / HTTP/1.1" 200 -
+[2024-03-15 11:08:46,327] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:08:46] "GET /video HTTP/1.1" 200 -
+[2024-03-15 11:09:14,202] 73 root -INFO Data Frame Gathered
+[2024-03-15 11:09:14,483] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:09:14] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[2024-03-15 11:09:14,568] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:09:14] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-15 11:09:14,570] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:09:14] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-15 11:09:14,677] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:09:14] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-15 11:09:14,738] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:09:14] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-15 11:09:21,194] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:09:21] "GET / HTTP/1.1" 200 -
+[2024-03-15 11:09:21,403] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:09:21] "GET /video HTTP/1.1" 200 -
+[2024-03-15 11:09:43,092] 73 root -INFO Data Frame Gathered
+[2024-03-15 11:09:43,376] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:09:43] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[2024-03-15 11:09:43,459] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:09:43] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-15 11:09:43,467] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:09:43] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-15 11:09:43,576] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:09:43] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-15 11:09:43,636] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:09:43] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-15 11:09:53,274] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:09:53] "GET / HTTP/1.1" 200 -
+[2024-03-15 11:09:53,417] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:09:53] "GET /video HTTP/1.1" 200 -
+[2024-03-15 11:10:12,544] 73 root -INFO Data Frame Gathered
+[2024-03-15 11:10:12,868] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:10:12] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[2024-03-15 11:10:12,956] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:10:12] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-15 11:10:12,973] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:10:12] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-15 11:10:13,062] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:10:13] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-15 11:10:13,087] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:10:13] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-15 11:10:19,622] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:10:19] "GET / HTTP/1.1" 200 -
+[2024-03-15 11:10:19,837] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:10:19] "GET /video HTTP/1.1" 200 -
+[2024-03-15 11:10:39,564] 73 root -INFO Data Frame Gathered
+[2024-03-15 11:10:39,887] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:10:39] "POST / HTTP/1.1" 200 -
+[2024-03-15 11:10:39,963] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:10:39] "[36mGET /static/vshapemen/1.jpeg HTTP/1.1[0m" 304 -
+[2024-03-15 11:10:39,974] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:10:39] "[36mGET /static/vshapemen/2.jpg HTTP/1.1[0m" 304 -
+[2024-03-15 11:10:39,982] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:10:39] "[36mGET /static/vshapemen/3.jpeg HTTP/1.1[0m" 304 -
+[2024-03-15 11:10:39,996] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:10:39] "[36mGET /static/vshapemen/4.jpg HTTP/1.1[0m" 304 -
+[2024-03-15 11:10:46,755] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:10:46] "GET / HTTP/1.1" 200 -
+[2024-03-15 11:10:49,739] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:10:49] "GET / HTTP/1.1" 200 -
+[2024-03-15 11:10:49,884] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:10:49] "GET /video HTTP/1.1" 200 -
+[2024-03-15 11:11:08,782] 73 root -INFO Data Frame Gathered
+[2024-03-15 11:11:09,043] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:11:09] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[2024-03-15 11:11:09,124] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:11:09] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-15 11:11:09,132] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:11:09] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-15 11:11:09,254] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:11:09] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-15 11:11:09,293] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:11:09] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-15 11:11:24,625] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:11:24] "GET / HTTP/1.1" 200 -
+[2024-03-15 11:11:24,851] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:11:24] "GET /video HTTP/1.1" 200 -
+[2024-03-15 11:11:47,206] 73 root -INFO Data Frame Gathered
+[2024-03-15 11:11:47,520] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:11:47] "POST / HTTP/1.1" 200 -
+[2024-03-15 11:11:47,552] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:11:47] "[36mGET /static/vshapemen/1.jpeg HTTP/1.1[0m" 304 -
+[2024-03-15 11:11:47,568] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:11:47] "[36mGET /static/vshapemen/2.jpg HTTP/1.1[0m" 304 -
+[2024-03-15 11:11:47,573] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:11:47] "[36mGET /static/vshapemen/3.jpeg HTTP/1.1[0m" 304 -
+[2024-03-15 11:11:47,576] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:11:47] "[36mGET /static/vshapemen/4.jpg HTTP/1.1[0m" 304 -
+[2024-03-15 11:25:14,896] 73 root -INFO Data Frame Gathered
+[2024-03-15 11:25:15,178] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:25:15] "POST / HTTP/1.1" 200 -
+[2024-03-15 11:25:15,228] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:25:15] "[36mGET /static/vshapemen/2.jpg HTTP/1.1[0m" 304 -
+[2024-03-15 11:25:15,234] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:25:15] "[36mGET /static/vshapemen/1.jpeg HTTP/1.1[0m" 304 -
+[2024-03-15 11:25:15,249] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:25:15] "[36mGET /static/vshapemen/3.jpeg HTTP/1.1[0m" 304 -
+[2024-03-15 11:25:15,258] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:25:15] "[36mGET /static/vshapemen/4.jpg HTTP/1.1[0m" 304 -
+[2024-03-15 11:25:24,179] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:25:24] "GET / HTTP/1.1" 200 -
+[2024-03-15 11:25:24,307] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:25:24] "GET /video HTTP/1.1" 200 -
+[2024-03-15 11:25:24,379] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\werkzeug\\wsgi.py', reloading

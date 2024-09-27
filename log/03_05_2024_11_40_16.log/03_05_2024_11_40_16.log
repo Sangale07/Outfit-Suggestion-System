@@ -1,0 +1,46 @@
+[2024-03-05 11:40:22,610] 96 werkzeug -WARNING  * Debugger is active!
+[2024-03-05 11:40:22,620] 96 werkzeug -INFO  * Debugger PIN: 111-650-926
+[2024-03-05 11:40:23,735] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:40:23] "GET / HTTP/1.1" 200 -
+[2024-03-05 11:40:24,868] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:40:24] "GET /video HTTP/1.1" 200 -
+[2024-03-05 11:40:24,912] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:40:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-03-05 11:40:42,520] 73 root -INFO Data Frame Gathered
+[2024-03-05 11:40:43,442] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:40:43] "POST / HTTP/1.1" 200 -
+[2024-03-05 11:40:43,482] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:40:43] "[36mGET /static/vshapemen/1.jpeg HTTP/1.1[0m" 304 -
+[2024-03-05 11:40:43,484] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:40:43] "[36mGET /static/vshapemen/2.jpg HTTP/1.1[0m" 304 -
+[2024-03-05 11:40:43,484] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:40:43] "[36mGET /static/vshapemen/3.jpeg HTTP/1.1[0m" 304 -
+[2024-03-05 11:40:43,484] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:40:43] "[36mGET /static/vshapemen/4.jpg HTTP/1.1[0m" 304 -
+[2024-03-05 11:40:45,285] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:40:45] "GET / HTTP/1.1" 200 -
+[2024-03-05 11:40:47,478] 73 root -INFO Data Frame Gathered
+[2024-03-05 11:40:47,545] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:40:47] "POST / HTTP/1.1" 200 -
+[2024-03-05 11:40:47,573] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:40:47] "GET /static/Hourglass/1.png HTTP/1.1" 200 -
+[2024-03-05 11:40:47,575] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:40:47] "GET /static/Hourglass/2.jpg HTTP/1.1" 200 -
+[2024-03-05 11:40:47,581] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:40:47] "GET /static/Hourglass/3.jpg HTTP/1.1" 200 -
+[2024-03-05 11:40:47,586] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:40:47] "GET /static/Hourglass/4.jpeg HTTP/1.1" 200 -
+[2024-03-05 11:40:52,844] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:40:52] "GET / HTTP/1.1" 200 -
+[2024-03-05 11:40:57,116] 73 root -INFO Data Frame Gathered
+[2024-03-05 11:40:57,172] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:40:57] "POST / HTTP/1.1" 200 -
+[2024-03-05 11:40:57,189] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:40:57] "[36mGET /static/Hourglass/1.png HTTP/1.1[0m" 304 -
+[2024-03-05 11:40:57,195] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:40:57] "[36mGET /static/Hourglass/2.jpg HTTP/1.1[0m" 304 -
+[2024-03-05 11:40:57,200] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:40:57] "[36mGET /static/Hourglass/3.jpg HTTP/1.1[0m" 304 -
+[2024-03-05 11:40:57,204] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:40:57] "[36mGET /static/Hourglass/4.jpeg HTTP/1.1[0m" 304 -
+[2024-03-05 11:41:06,348] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:41:06] "GET / HTTP/1.1" 200 -
+[2024-03-05 11:41:14,318] 73 root -INFO Data Frame Gathered
+[2024-03-05 11:41:14,368] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:41:14] "POST / HTTP/1.1" 200 -
+[2024-03-05 11:41:14,384] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:41:14] "[36mGET /static/vshapemen/1.jpeg HTTP/1.1[0m" 304 -
+[2024-03-05 11:41:14,388] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:41:14] "[36mGET /static/vshapemen/2.jpg HTTP/1.1[0m" 304 -
+[2024-03-05 11:41:14,391] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:41:14] "[36mGET /static/vshapemen/3.jpeg HTTP/1.1[0m" 304 -
+[2024-03-05 11:41:14,391] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:41:14] "[36mGET /static/vshapemen/4.jpg HTTP/1.1[0m" 304 -
+[2024-03-05 11:41:19,004] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:41:19] "GET / HTTP/1.1" 200 -
+[2024-03-05 11:41:55,819] 73 root -INFO Data Frame Gathered
+[2024-03-05 11:41:55,874] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:41:55] "POST / HTTP/1.1" 200 -
+[2024-03-05 11:41:55,898] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:41:55] "[36mGET /static/vshapemen/1.jpeg HTTP/1.1[0m" 304 -
+[2024-03-05 11:41:55,901] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:41:55] "[36mGET /static/vshapemen/2.jpg HTTP/1.1[0m" 304 -
+[2024-03-05 11:41:55,905] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:41:55] "[36mGET /static/vshapemen/3.jpeg HTTP/1.1[0m" 304 -
+[2024-03-05 11:41:55,909] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:41:55] "[36mGET /static/vshapemen/4.jpg HTTP/1.1[0m" 304 -
+[2024-03-05 11:41:57,129] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:41:57] "GET / HTTP/1.1" 200 -
+[2024-03-05 11:42:02,332] 73 root -INFO Data Frame Gathered
+[2024-03-05 11:42:02,383] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:42:02] "POST / HTTP/1.1" 200 -
+[2024-03-05 11:42:02,402] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:42:02] "[36mGET /static/Hourglass/1.png HTTP/1.1[0m" 304 -
+[2024-03-05 11:42:02,407] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:42:02] "[36mGET /static/Hourglass/2.jpg HTTP/1.1[0m" 304 -
+[2024-03-05 11:42:02,409] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:42:02] "[36mGET /static/Hourglass/3.jpg HTTP/1.1[0m" 304 -
+[2024-03-05 11:42:02,416] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 11:42:02] "[36mGET /static/Hourglass/4.jpeg HTTP/1.1[0m" 304 -

@@ -1,0 +1,13 @@
+[2024-03-02 20:40:49,223] 96 werkzeug -WARNING  * Debugger is active!
+[2024-03-02 20:40:49,231] 96 werkzeug -INFO  * Debugger PIN: 274-803-487
+[2024-03-02 20:40:55,321] 73 root -INFO Data Frame Gathered
+[2024-03-02 20:40:55,601] 96 werkzeug -INFO 127.0.0.1 - - [02/Mar/2024 20:40:55] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[2024-03-02 20:40:55,617] 96 werkzeug -INFO 127.0.0.1 - - [02/Mar/2024 20:40:55] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-02 20:40:55,621] 96 werkzeug -INFO 127.0.0.1 - - [02/Mar/2024 20:40:55] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-02 20:40:55,641] 96 werkzeug -INFO 127.0.0.1 - - [02/Mar/2024 20:40:55] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-02 20:40:55,665] 96 werkzeug -INFO 127.0.0.1 - - [02/Mar/2024 20:40:55] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-02 20:41:26,284] 73 root -INFO Data Frame Gathered
+[2024-03-02 20:41:26,380] 96 werkzeug -INFO 127.0.0.1 - - [02/Mar/2024 20:41:26] "POST / HTTP/1.1" 200 -
+[2024-03-02 20:41:26,400] 96 werkzeug -INFO 127.0.0.1 - - [02/Mar/2024 20:41:26] "[33mGET /static/pics/vsh1.jpg HTTP/1.1[0m" 404 -
+[2024-03-02 20:45:35,704] 96 werkzeug -INFO 127.0.0.1 - - [02/Mar/2024 20:45:35] "GET / HTTP/1.1" 200 -
+[2024-03-02 20:56:16,888] 96 werkzeug -INFO  * Detected change in 'd:\\devops\\project\\be project\\outfit recommendation\\app.py', reloading

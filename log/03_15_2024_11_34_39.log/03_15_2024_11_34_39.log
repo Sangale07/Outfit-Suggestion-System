@@ -1,0 +1,11 @@
+[2024-03-15 11:34:45,075] 224 werkzeug -WARNING  * Debugger is active!
+[2024-03-15 11:34:45,075] 224 werkzeug -INFO  * Debugger PIN: 589-365-646
+[2024-03-15 11:45:17,122] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:45:17] "GET / HTTP/1.1" 200 -
+[2024-03-15 11:45:17,633] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:45:17] "GET /video HTTP/1.1" 200 -
+[2024-03-15 11:45:44,475] 73 root -INFO Data Frame Gathered
+[2024-03-15 11:45:44,919] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:45:44] "POST / HTTP/1.1" 200 -
+[2024-03-15 11:45:45,163] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:45:45] "GET /static/Rectangularmen/2.png HTTP/1.1" 200 -
+[2024-03-15 11:45:45,181] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:45:45] "GET /static/Rectangularmen/3.jpg HTTP/1.1" 200 -
+[2024-03-15 11:45:45,187] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:45:45] "GET /static/Rectangularmen/1.png HTTP/1.1" 200 -
+[2024-03-15 11:45:45,204] 224 werkzeug -INFO 127.0.0.1 - - [15/Mar/2024 11:45:45] "GET /static/Rectangularmen/4.png HTTP/1.1" 200 -
+[2024-03-15 11:49:44,287] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Scripts\\conda-script.py', reloading

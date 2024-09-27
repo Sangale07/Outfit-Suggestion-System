@@ -1,0 +1,4 @@
+[2024-03-08 22:38:43,417] 224 werkzeug -WARNING  * Debugger is active!
+[2024-03-08 22:38:43,449] 224 werkzeug -INFO  * Debugger PIN: 589-365-646
+[2024-03-08 22:39:31,163] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\flask\\__init__.py', reloading
+[2024-03-08 22:39:31,299] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\flask\\app.py', reloading

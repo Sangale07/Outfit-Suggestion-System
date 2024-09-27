@@ -1,0 +1,4 @@
+[2024-03-05 23:13:21,959] 96 werkzeug -WARNING  * Debugger is active!
+[2024-03-05 23:13:21,973] 96 werkzeug -INFO  * Debugger PIN: 274-803-487
+[2024-03-05 23:13:22,550] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 23:13:22] "GET / HTTP/1.1" 200 -
+[2024-03-05 23:13:23,178] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 23:13:23] "GET /video HTTP/1.1" 200 -

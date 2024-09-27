@@ -1,0 +1,13 @@
+[2024-04-15 15:21:18,141] 224 werkzeug -WARNING  * Debugger is active!
+[2024-04-15 15:21:18,162] 224 werkzeug -INFO  * Debugger PIN: 589-365-646
+[2024-04-15 15:21:18,233] 224 werkzeug -INFO 127.0.0.1 - - [15/Apr/2024 15:21:18] "GET / HTTP/1.1" 200 -
+[2024-04-15 15:21:18,718] 224 werkzeug -INFO 127.0.0.1 - - [15/Apr/2024 15:21:18] "GET /video HTTP/1.1" 200 -
+[2024-04-15 15:21:40,480] 73 root -INFO Data Frame Gathered
+[2024-04-15 15:21:40,481] 73 root -INFO Data Frame Gathered
+[2024-04-15 15:21:41,249] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\sklearn\\base.py', reloading
+[2024-04-15 15:21:42,176] 224 werkzeug -INFO 127.0.0.1 - - [15/Apr/2024 15:21:42] "POST / HTTP/1.1" 200 -
+[2024-04-15 15:21:42,180] 224 werkzeug -INFO 127.0.0.1 - - [15/Apr/2024 15:21:42] "POST / HTTP/1.1" 200 -
+[2024-04-15 15:21:42,928] 224 werkzeug -INFO 127.0.0.1 - - [15/Apr/2024 15:21:42] "GET /static/Hourglass/1.png HTTP/1.1" 200 -
+[2024-04-15 15:21:42,985] 224 werkzeug -INFO 127.0.0.1 - - [15/Apr/2024 15:21:42] "GET /static/Hourglass/2.jpg HTTP/1.1" 200 -
+[2024-04-15 15:21:42,988] 224 werkzeug -INFO 127.0.0.1 - - [15/Apr/2024 15:21:42] "GET /static/Hourglass/4.jpeg HTTP/1.1" 200 -
+[2024-04-15 15:21:42,996] 224 werkzeug -INFO 127.0.0.1 - - [15/Apr/2024 15:21:42] "GET /static/Hourglass/3.jpg HTTP/1.1" 200 -

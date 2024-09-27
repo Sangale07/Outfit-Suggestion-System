@@ -1,0 +1,34 @@
+[2024-03-02 19:49:40,901] 224 werkzeug -WARNING  * Debugger is active!
+[2024-03-02 19:49:40,905] 224 werkzeug -INFO  * Debugger PIN: 420-491-295
+[2024-03-02 19:49:40,937] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\numpy\\distutils\\tests\\test_log.py', reloading
+[2024-03-02 19:49:40,945] 73 root -INFO Data Frame Gathered
+[2024-03-02 19:49:40,949] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\numpy\\distutils\\tests\\test_mingw32ccompiler.py', reloading
+[2024-03-02 19:49:40,957] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\numpy\\distutils\\tests\\test_misc_util.py', reloading
+[2024-03-02 19:49:40,977] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\numpy\\distutils\\tests\\test_npy_pkg_config.py', reloading
+[2024-03-02 19:49:40,985] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\numpy\\distutils\\tests\\test_shell_utils.py', reloading
+[2024-03-02 19:49:41,001] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\numpy\\distutils\\tests\\test_system_info.py', reloading
+[2024-03-02 19:49:41,017] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\numpy\\doc\\__init__.py', reloading
+[2024-03-02 19:49:41,033] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\numpy\\doc\\constants.py', reloading
+[2024-03-02 19:49:41,045] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\numpy\\doc\\ufuncs.py', reloading
+[2024-03-02 19:49:41,057] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\numpy\\f2py\\__init__.py', reloading
+[2024-03-02 19:49:41,081] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\numpy\\f2py\\__main__.py', reloading
+[2024-03-02 19:49:41,097] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\numpy\\f2py\\__version__.py', reloading
+[2024-03-02 19:49:41,113] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\numpy\\f2py\\auxfuncs.py', reloading
+[2024-03-02 19:49:41,149] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\numpy\\f2py\\capi_maps.py', reloading
+[2024-03-02 19:49:41,173] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\numpy\\f2py\\cb_rules.py', reloading
+[2024-03-02 19:49:41,193] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\numpy\\f2py\\cfuncs.py', reloading
+[2024-03-02 19:49:41,213] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\numpy\\f2py\\common_rules.py', reloading
+[2024-03-02 19:49:41,237] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\numpy\\f2py\\crackfortran.py', reloading
+[2024-03-02 19:49:41,277] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\papal\\anaconda3\\Lib\\site-packages\\sklearn\\base.py', reloading
+[2024-03-02 19:49:41,321] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\numpy\\f2py\\diagnose.py', reloading
+[2024-03-02 19:49:41,349] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\numpy\\f2py\\f2py2e.py', reloading
+[2024-03-02 19:49:41,373] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\numpy\\f2py\\f90mod_rules.py', reloading
+[2024-03-02 19:49:41,389] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\numpy\\f2py\\func2subr.py', reloading
+[2024-03-02 19:49:41,405] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\numpy\\f2py\\rules.py', reloading
+[2024-03-02 19:49:41,429] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\numpy\\f2py\\setup.py', reloading
+[2024-03-02 19:49:41,445] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\numpy\\f2py\\symbolic.py', reloading
+[2024-03-02 19:49:41,493] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\numpy\\f2py\\use_rules.py', reloading
+[2024-03-02 19:49:41,553] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\numpy\\f2py\\tests\\test_abstract_interface.py', reloading
+[2024-03-02 19:49:41,553] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\numpy\\f2py\\tests\\test_array_from_pyobj.py', reloading
+[2024-03-02 19:49:41,565] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site-packages\\numpy\\f2py\\tests\\test_assumed_shape.py', reloading
+[2024-03-02 19:49:41,589] 224 werkzeug -INFO 127.0.0.1 - - [02/Mar/2024 19:49:41] "POST / HTTP/1.1" 200 -

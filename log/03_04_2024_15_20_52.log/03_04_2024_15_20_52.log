@@ -1,0 +1,59 @@
+[2024-03-04 15:20:56,645] 96 werkzeug -WARNING  * Debugger is active!
+[2024-03-04 15:20:56,652] 96 werkzeug -INFO  * Debugger PIN: 274-803-487
+[2024-03-04 15:20:57,422] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:20:57] "GET / HTTP/1.1" 200 -
+[2024-03-04 15:21:01,373] 73 root -INFO Data Frame Gathered
+[2024-03-04 15:21:01,545] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:21:01] "POST / HTTP/1.1" 200 -
+[2024-03-04 15:21:01,569] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:21:01] "[36mGET /static/Hourglass/1.png HTTP/1.1[0m" 304 -
+[2024-03-04 15:21:01,572] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:21:01] "[36mGET /static/Hourglass/2.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:21:01,575] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:21:01] "[36mGET /static/Hourglass/3.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:21:01,578] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:21:01] "[36mGET /static/Hourglass/4.png HTTP/1.1[0m" 304 -
+[2024-03-04 15:21:03,388] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:21:03] "GET / HTTP/1.1" 200 -
+[2024-03-04 15:21:07,725] 73 root -INFO Data Frame Gathered
+[2024-03-04 15:21:07,779] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:21:07] "POST / HTTP/1.1" 200 -
+[2024-03-04 15:21:07,796] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:21:07] "[36mGET /static/Rectangular/1.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:21:07,799] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:21:07] "[36mGET /static/Rectangular/2.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:21:07,804] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:21:07] "[36mGET /static/Rectangular/3.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:21:07,809] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:21:07] "[36mGET /static/Rectangular/4.png HTTP/1.1[0m" 304 -
+[2024-03-04 15:21:10,493] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:21:10] "GET / HTTP/1.1" 200 -
+[2024-03-04 15:21:12,736] 73 root -INFO Data Frame Gathered
+[2024-03-04 15:21:12,785] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:21:12] "POST / HTTP/1.1" 200 -
+[2024-03-04 15:21:12,806] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:21:12] "[36mGET /static/Rectangular/1.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:21:12,812] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:21:12] "[36mGET /static/Rectangular/2.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:21:12,815] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:21:12] "[36mGET /static/Rectangular/3.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:21:12,819] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:21:12] "[36mGET /static/Rectangular/4.png HTTP/1.1[0m" 304 -
+[2024-03-04 15:21:14,533] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:21:14] "GET / HTTP/1.1" 200 -
+[2024-03-04 15:21:42,637] 73 root -INFO Data Frame Gathered
+[2024-03-04 15:21:42,692] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:21:42] "POST / HTTP/1.1" 200 -
+[2024-03-04 15:21:42,710] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:21:42] "[36mGET /static/Rectangular/1.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:21:42,714] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:21:42] "[36mGET /static/Rectangular/2.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:21:42,720] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:21:42] "[36mGET /static/Rectangular/3.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:21:42,721] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:21:42] "[36mGET /static/Rectangular/4.png HTTP/1.1[0m" 304 -
+[2024-03-04 15:21:47,748] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:21:47] "GET / HTTP/1.1" 200 -
+[2024-03-04 15:21:53,285] 73 root -INFO Data Frame Gathered
+[2024-03-04 15:21:53,332] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:21:53] "POST / HTTP/1.1" 200 -
+[2024-03-04 15:21:53,357] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:21:53] "[36mGET /static/Hourglass/1.png HTTP/1.1[0m" 304 -
+[2024-03-04 15:21:53,363] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:21:53] "[36mGET /static/Hourglass/2.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:21:53,369] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:21:53] "[36mGET /static/Hourglass/3.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:21:53,373] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:21:53] "[36mGET /static/Hourglass/4.png HTTP/1.1[0m" 304 -
+[2024-03-04 15:22:10,994] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:22:10] "GET / HTTP/1.1" 200 -
+[2024-03-04 15:23:26,005] 73 root -INFO Data Frame Gathered
+[2024-03-04 15:23:26,049] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:23:26] "POST / HTTP/1.1" 200 -
+[2024-03-04 15:23:26,067] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:23:26] "[36mGET /static/Hourglass/1.png HTTP/1.1[0m" 304 -
+[2024-03-04 15:23:26,072] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:23:26] "[36mGET /static/Hourglass/2.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:23:26,076] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:23:26] "[36mGET /static/Hourglass/3.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:23:26,077] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:23:26] "[36mGET /static/Hourglass/4.png HTTP/1.1[0m" 304 -
+[2024-03-04 15:23:28,116] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:23:28] "GET / HTTP/1.1" 200 -
+[2024-03-04 15:23:34,777] 73 root -INFO Data Frame Gathered
+[2024-03-04 15:23:34,823] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:23:34] "POST / HTTP/1.1" 200 -
+[2024-03-04 15:23:34,843] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:23:34] "[36mGET /static/Hourglass/1.png HTTP/1.1[0m" 304 -
+[2024-03-04 15:23:34,849] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:23:34] "[36mGET /static/Hourglass/2.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:23:34,849] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:23:34] "[36mGET /static/Hourglass/3.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:23:34,853] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:23:34] "[36mGET /static/Hourglass/4.png HTTP/1.1[0m" 304 -
+[2024-03-04 15:23:37,113] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:23:37] "GET / HTTP/1.1" 200 -
+[2024-03-04 15:23:40,741] 73 root -INFO Data Frame Gathered
+[2024-03-04 15:23:40,787] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:23:40] "POST / HTTP/1.1" 200 -
+[2024-03-04 15:23:40,803] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:23:40] "[36mGET /static/Rectangular/1.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:23:40,809] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:23:40] "[36mGET /static/Rectangular/2.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:23:40,813] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:23:40] "[36mGET /static/Rectangular/3.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:23:40,817] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:23:40] "[36mGET /static/Rectangular/4.png HTTP/1.1[0m" 304 -
+[2024-03-04 15:23:59,281] 96 werkzeug -INFO  * Detected change in 'd:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\app.py', reloading

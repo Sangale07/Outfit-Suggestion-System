@@ -1,0 +1,5 @@
+[2024-03-08 22:40:39,236] 224 werkzeug -WARNING  * Debugger is active!
+[2024-03-08 22:40:39,313] 224 werkzeug -INFO  * Debugger PIN: 589-365-646
+[2024-03-08 22:40:39,630] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\email\\mime\\base.py', reloading
+[2024-03-08 22:40:39,630] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\email\\mime\\base.py', reloading
+[2024-03-08 22:40:39,660] 224 werkzeug -INFO 127.0.0.1 - - [08/Mar/2024 22:40:39] "GET / HTTP/1.1" 200 -

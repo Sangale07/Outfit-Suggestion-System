@@ -1,0 +1,15 @@
+[2024-05-01 21:10:44,064] 224 werkzeug -WARNING  * Debugger is active!
+[2024-05-01 21:10:44,076] 224 werkzeug -INFO  * Debugger PIN: 118-119-026
+[2024-05-01 21:11:06,272] 224 werkzeug -INFO 127.0.0.1 - - [01/May/2024 21:11:06] "GET / HTTP/1.1" 200 -
+[2024-05-01 21:11:06,799] 224 werkzeug -INFO 127.0.0.1 - - [01/May/2024 21:11:06] "GET /video HTTP/1.1" 200 -
+[2024-05-01 21:11:27,968] 73 root -INFO Data Frame Gathered
+[2024-05-01 21:11:28,318] 224 werkzeug -INFO 127.0.0.1 - - [01/May/2024 21:11:28] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[2024-05-01 21:11:28,453] 224 werkzeug -INFO 127.0.0.1 - - [01/May/2024 21:11:28] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-05-01 21:11:28,459] 224 werkzeug -INFO 127.0.0.1 - - [01/May/2024 21:11:28] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-05-01 21:11:28,514] 224 werkzeug -INFO 127.0.0.1 - - [01/May/2024 21:11:28] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-05-01 21:11:28,545] 224 werkzeug -INFO 127.0.0.1 - - [01/May/2024 21:11:28] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-05-01 21:11:38,229] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\app.py', reloading
+[2024-05-01 21:11:38,235] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\app.py', reloading
+[2024-05-01 21:11:38,235] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\app.py', reloading
+[2024-05-01 21:11:38,239] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\app.py', reloading
+[2024-05-01 21:11:38,241] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\app.py', reloading

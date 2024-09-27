@@ -1,0 +1,36 @@
+[2024-03-08 22:41:08,322] 224 werkzeug -WARNING  * Debugger is active!
+[2024-03-08 22:41:08,350] 224 werkzeug -INFO  * Debugger PIN: 589-365-646
+[2024-03-08 22:41:08,525] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\smart_open\\__init__.py', reloading
+[2024-03-08 22:41:08,536] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\pip\\_vendor\\chardet\\johabprober.py', reloading
+[2024-03-08 22:41:08,537] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\pip\\_vendor\\chardet\\johabprober.py', reloading
+[2024-03-08 22:41:08,553] 224 werkzeug -INFO 127.0.0.1 - - [08/Mar/2024 22:41:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-03-08 22:41:08,580] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\smart_open\\smart_open_lib.py', reloading
+[2024-03-08 22:41:08,608] 224 werkzeug -INFO 127.0.0.1 - - [08/Mar/2024 22:41:08] "GET / HTTP/1.1" 200 -
+[2024-03-08 22:41:08,611] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\pip\\_vendor\\chardet\\jpcntx.py', reloading
+[2024-03-08 22:41:08,612] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\pip\\_vendor\\chardet\\jpcntx.py', reloading
+[2024-03-08 22:41:08,711] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\smart_open\\compression.py', reloading
+[2024-03-08 22:41:08,754] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\pip\\_vendor\\chardet\\langbulgarianmodel.py', reloading
+[2024-03-08 22:41:08,755] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\pip\\_vendor\\chardet\\langbulgarianmodel.py', reloading
+[2024-03-08 22:41:08,759] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\snappy\\__init__.py', reloading
+[2024-03-08 22:41:08,778] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\sniffio\\__init__.py', reloading
+[2024-03-08 22:41:08,809] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\sniffio\\_impl.py', reloading
+[2024-03-08 22:41:08,842] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\snowballstemmer\\__init__.py', reloading
+[2024-03-08 22:41:08,886] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\pip\\_vendor\\chardet\\langgreekmodel.py', reloading
+[2024-03-08 22:41:08,887] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\pip\\_vendor\\chardet\\langgreekmodel.py', reloading
+[2024-03-08 22:41:08,912] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\sortedcontainers\\__init__.py', reloading
+[2024-03-08 22:41:08,945] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\sortedcontainers\\sortedlist.py', reloading
+[2024-03-08 22:41:09,091] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\pip\\_vendor\\chardet\\langhebrewmodel.py', reloading
+[2024-03-08 22:41:09,092] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\pip\\_vendor\\chardet\\langhebrewmodel.py', reloading
+[2024-03-08 22:41:09,104] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\sortedcontainers\\sortedset.py', reloading
+[2024-03-08 22:41:09,173] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\sortedcontainers\\sorteddict.py', reloading
+[2024-03-08 22:41:09,204] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\pip\\_vendor\\chardet\\langhungarianmodel.py', reloading
+[2024-03-08 22:41:09,204] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\pip\\_vendor\\chardet\\langhungarianmodel.py', reloading
+[2024-03-08 22:41:09,222] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\soupsieve\\__init__.py', reloading
+[2024-03-08 22:41:09,280] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\soupsieve\\util.py', reloading
+[2024-03-08 22:41:09,308] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\sphinx\\__init__.py', reloading
+[2024-03-08 22:41:09,365] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\pip\\_vendor\\chardet\\langrussianmodel.py', reloading
+[2024-03-08 22:41:09,367] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\pip\\_vendor\\chardet\\langrussianmodel.py', reloading
+[2024-03-08 22:41:09,368] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\spyder\\__init__.py', reloading
+[2024-03-08 22:41:09,422] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\spyder_kernels\\__init__.py', reloading
+[2024-03-08 22:41:09,468] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\sqlalchemy\\__init__.py', reloading
+[2024-03-08 22:41:09,551] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\stack_data\\__init__.py', reloading

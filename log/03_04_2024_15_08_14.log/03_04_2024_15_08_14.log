@@ -1,0 +1,93 @@
+[2024-03-04 15:08:18,803] 96 werkzeug -WARNING  * Debugger is active!
+[2024-03-04 15:08:18,809] 96 werkzeug -INFO  * Debugger PIN: 274-803-487
+[2024-03-04 15:08:19,626] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:08:19] "GET / HTTP/1.1" 200 -
+[2024-03-04 15:08:20,510] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:08:20] "GET /video HTTP/1.1" 200 -
+[2024-03-04 15:08:33,786] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:08:33] "GET / HTTP/1.1" 200 -
+[2024-03-04 15:08:33,835] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:08:33] "GET /video HTTP/1.1" 200 -
+[2024-03-04 15:08:40,167] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:08:40] "GET / HTTP/1.1" 200 -
+[2024-03-04 15:08:40,218] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:08:40] "GET /video HTTP/1.1" 200 -
+[2024-03-04 15:08:44,333] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:08:44] "GET / HTTP/1.1" 200 -
+[2024-03-04 15:08:44,379] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:08:44] "GET /video HTTP/1.1" 200 -
+[2024-03-04 15:09:26,303] 73 root -INFO Data Frame Gathered
+[2024-03-04 15:09:26,509] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:09:26] "POST / HTTP/1.1" 200 -
+[2024-03-04 15:09:26,525] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:09:26] "GET /static/vshapemen/1.jpeg HTTP/1.1" 200 -
+[2024-03-04 15:09:26,532] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:09:26] "GET /static/vshapemen/4.jpg HTTP/1.1" 200 -
+[2024-03-04 15:09:26,542] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:09:26] "GET /static/vshapemen/2.jpg HTTP/1.1" 200 -
+[2024-03-04 15:09:26,543] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:09:26] "GET /static/vshapemen/3.jpeg HTTP/1.1" 200 -
+[2024-03-04 15:09:29,543] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:09:29] "GET / HTTP/1.1" 200 -
+[2024-03-04 15:09:34,480] 73 root -INFO Data Frame Gathered
+[2024-03-04 15:09:34,538] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:09:34] "POST / HTTP/1.1" 200 -
+[2024-03-04 15:09:34,560] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:09:34] "[36mGET /static/Hourglass/1.png HTTP/1.1[0m" 304 -
+[2024-03-04 15:09:34,566] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:09:34] "[36mGET /static/Hourglass/2.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:09:34,571] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:09:34] "[36mGET /static/Hourglass/3.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:09:34,574] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:09:34] "[36mGET /static/Hourglass/4.png HTTP/1.1[0m" 304 -
+[2024-03-04 15:09:39,510] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:09:39] "GET / HTTP/1.1" 200 -
+[2024-03-04 15:09:42,757] 73 root -INFO Data Frame Gathered
+[2024-03-04 15:09:42,822] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:09:42] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[2024-03-04 15:09:42,825] 96 werkzeug -ERROR Error on request:
+Traceback (most recent call last):
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\werkzeug\debug\__init__.py", line 330, in debug_application
+    app_iter = self.app(environ, start_response)
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\flask-3.0.2-py3.8.egg\flask\app.py", line 1488, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\flask-3.0.2-py3.8.egg\flask\app.py", line 1466, in wsgi_app
+    response = self.handle_exception(e)
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\flask-3.0.2-py3.8.egg\flask\app.py", line 1463, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\flask-3.0.2-py3.8.egg\flask\app.py", line 873, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\flask-3.0.2-py3.8.egg\flask\app.py", line 892, in finalize_request
+    response = self.make_response(rv)
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\flask-3.0.2-py3.8.egg\flask\app.py", line 1164, in make_response
+    raise TypeError(
+TypeError: The view function for 'predict_datapoint' did not return a valid response. The function either returned None or ended without a return statement.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\werkzeug\serving.py", line 362, in run_wsgi
+    execute(self.server.app)
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\werkzeug\serving.py", line 325, in execute
+    for data in application_iter:
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\werkzeug\debug\__init__.py", line 365, in debug_application
+    environ["wsgi.errors"].write("".join(tb.render_traceback_text()))
+OSError: [WinError 6] The handle is invalid
+[2024-03-04 15:09:42,839] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:09:42] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-04 15:09:42,843] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:09:42] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-04 15:09:42,881] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:09:42] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-04 15:09:42,902] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:09:42] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-04 15:09:53,529] 73 root -INFO Data Frame Gathered
+[2024-03-04 15:09:53,598] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:09:53] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[2024-03-04 15:09:53,601] 96 werkzeug -ERROR Error on request:
+Traceback (most recent call last):
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\werkzeug\debug\__init__.py", line 330, in debug_application
+    app_iter = self.app(environ, start_response)
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\flask-3.0.2-py3.8.egg\flask\app.py", line 1488, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\flask-3.0.2-py3.8.egg\flask\app.py", line 1466, in wsgi_app
+    response = self.handle_exception(e)
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\flask-3.0.2-py3.8.egg\flask\app.py", line 1463, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\flask-3.0.2-py3.8.egg\flask\app.py", line 873, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\flask-3.0.2-py3.8.egg\flask\app.py", line 892, in finalize_request
+    response = self.make_response(rv)
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\flask-3.0.2-py3.8.egg\flask\app.py", line 1164, in make_response
+    raise TypeError(
+TypeError: The view function for 'predict_datapoint' did not return a valid response. The function either returned None or ended without a return statement.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\werkzeug\serving.py", line 362, in run_wsgi
+    execute(self.server.app)
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\werkzeug\serving.py", line 325, in execute
+    for data in application_iter:
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\werkzeug\debug\__init__.py", line 365, in debug_application
+    environ["wsgi.errors"].write("".join(tb.render_traceback_text()))
+OSError: [WinError 6] The handle is invalid
+[2024-03-04 15:09:53,619] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:09:53] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-04 15:09:53,623] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:09:53] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-04 15:09:53,641] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:09:53] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-04 15:09:53,662] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:09:53] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-04 15:09:53,960] 96 werkzeug -INFO  * Detected change in 'd:\\devops\\project\\be project\\outfit recommendation\\app.py', reloading

@@ -1,0 +1,4 @@
+[2024-03-08 22:41:28,133] 224 werkzeug -WARNING  * Debugger is active!
+[2024-03-08 22:41:28,187] 224 werkzeug -INFO  * Debugger PIN: 589-365-646
+[2024-03-08 22:41:28,687] 224 werkzeug -INFO  * Detected change in 'C:\\Users\\user\\Desktop\\BE Project\\env\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py', reloading
+[2024-03-08 22:41:28,687] 224 werkzeug -INFO  * Detected change in 'c:\\users\\user\\desktop\\be project\\env\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py', reloading

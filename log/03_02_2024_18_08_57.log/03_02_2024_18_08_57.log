@@ -1,0 +1,19 @@
+[2024-03-02 18:08:58,230] 96 werkzeug -INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2024-03-02 18:08:58,230] 96 werkzeug -INFO [33mPress CTRL+C to quit[0m
+[2024-03-02 18:09:19,910] 96 werkzeug -INFO 127.0.0.1 - - [02/Mar/2024 18:09:19] "GET / HTTP/1.1" 200 -
+[2024-03-02 18:09:21,015] 96 werkzeug -INFO 127.0.0.1 - - [02/Mar/2024 18:09:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-03-02 18:10:26,413] 828 app -ERROR Exception on / [POST]
+Traceback (most recent call last):
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\flask-3.0.2-py3.8.egg\flask\app.py", line 1463, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\flask-3.0.2-py3.8.egg\flask\app.py", line 872, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\flask-3.0.2-py3.8.egg\flask\app.py", line 870, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\flask-3.0.2-py3.8.egg\flask\app.py", line 855, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "app.py", line 14, in predict_datapoint
+    data = CustomData(
+TypeError: __init__() got an unexpected keyword argument 'gender'
+[2024-03-02 18:10:26,418] 96 werkzeug -INFO 127.0.0.1 - - [02/Mar/2024 18:10:26] "[35m[1mPOST / HTTP/1.1[0m" 500 -

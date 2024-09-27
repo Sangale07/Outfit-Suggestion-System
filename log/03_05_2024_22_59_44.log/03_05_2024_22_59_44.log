@@ -1,0 +1,24 @@
+[2024-03-05 22:59:50,231] 96 werkzeug -WARNING  * Debugger is active!
+[2024-03-05 22:59:50,243] 96 werkzeug -INFO  * Debugger PIN: 274-803-487
+[2024-03-05 22:59:55,530] 73 root -INFO Data Frame Gathered
+[2024-03-05 22:59:55,795] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 22:59:55] "POST / HTTP/1.1" 200 -
+[2024-03-05 22:59:55,821] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 22:59:55] "[36mGET /static/vshapemen/1.jpeg HTTP/1.1[0m" 304 -
+[2024-03-05 22:59:55,828] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 22:59:55] "[36mGET /static/vshapemen/2.jpg HTTP/1.1[0m" 304 -
+[2024-03-05 22:59:55,831] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 22:59:55] "[36mGET /static/vshapemen/3.jpeg HTTP/1.1[0m" 304 -
+[2024-03-05 22:59:55,834] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 22:59:55] "[36mGET /static/vshapemen/4.jpg HTTP/1.1[0m" 304 -
+[2024-03-05 22:59:57,748] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 22:59:57] "GET / HTTP/1.1" 200 -
+[2024-03-05 23:00:27,281] 73 root -INFO Data Frame Gathered
+[2024-03-05 23:00:27,361] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 23:00:27] "POST / HTTP/1.1" 200 -
+[2024-03-05 23:00:27,395] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 23:00:27] "GET /static/Rectangular/1.jpg HTTP/1.1" 200 -
+[2024-03-05 23:00:27,398] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 23:00:27] "GET /static/Rectangular/3.jpeg HTTP/1.1" 200 -
+[2024-03-05 23:00:27,399] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 23:00:27] "GET /static/Rectangular/4.png HTTP/1.1" 200 -
+[2024-03-05 23:00:27,400] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 23:00:27] "GET /static/Rectangular/2.jpg HTTP/1.1" 200 -
+[2024-03-05 23:00:43,897] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 23:00:43] "GET / HTTP/1.1" 200 -
+[2024-03-05 23:00:49,307] 73 root -INFO Data Frame Gathered
+[2024-03-05 23:00:49,352] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 23:00:49] "POST / HTTP/1.1" 200 -
+[2024-03-05 23:00:49,389] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 23:00:49] "GET /static/Rectangularmen/1.png HTTP/1.1" 200 -
+[2024-03-05 23:00:49,394] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 23:00:49] "GET /static/Rectangularmen/2.png HTTP/1.1" 200 -
+[2024-03-05 23:00:49,398] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 23:00:49] "GET /static/Rectangularmen/3.jpg HTTP/1.1" 200 -
+[2024-03-05 23:00:49,399] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 23:00:49] "GET /static/Rectangularmen/4.png HTTP/1.1" 200 -
+[2024-03-05 23:01:04,508] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 23:01:04] "GET / HTTP/1.1" 200 -
+[2024-03-05 23:04:35,720] 96 werkzeug -INFO  * Detected change in 'd:\\devops\\project\\be project\\outfit recommendation\\app.py', reloading

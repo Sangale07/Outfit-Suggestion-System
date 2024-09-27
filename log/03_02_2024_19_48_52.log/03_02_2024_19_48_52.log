@@ -1,0 +1,32 @@
+[2024-03-02 19:48:54,351] 224 werkzeug -WARNING  * Debugger is active!
+[2024-03-02 19:48:54,355] 224 werkzeug -INFO  * Debugger PIN: 420-491-295
+[2024-03-02 19:48:54,415] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\pstats.py', reloading
+[2024-03-02 19:48:54,455] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\pty.py', reloading
+[2024-03-02 19:48:54,475] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\py_compile.py', reloading
+[2024-03-02 19:48:54,499] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\pyclbr.py', reloading
+[2024-03-02 19:48:54,535] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\pydoc.py', reloading
+[2024-03-02 19:48:54,635] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\queue.py', reloading
+[2024-03-02 19:48:54,655] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\quopri.py', reloading
+[2024-03-02 19:48:54,671] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\random.py', reloading
+[2024-03-02 19:48:54,703] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\re.py', reloading
+[2024-03-02 19:48:54,723] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\reprlib.py', reloading
+[2024-03-02 19:48:54,743] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\rlcompleter.py', reloading
+[2024-03-02 19:48:54,763] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\runpy.py', reloading
+[2024-03-02 19:48:54,779] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\sched.py', reloading
+[2024-03-02 19:48:54,795] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\secrets.py', reloading
+[2024-03-02 19:48:54,811] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\selectors.py', reloading
+[2024-03-02 19:48:54,831] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\shelve.py', reloading
+[2024-03-02 19:48:54,851] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\shlex.py', reloading
+[2024-03-02 19:48:54,871] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\shutil.py', reloading
+[2024-03-02 19:48:54,911] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\signal.py', reloading
+[2024-03-02 19:48:54,927] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\site.py', reloading
+[2024-03-02 19:48:54,967] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\smtpd.py', reloading
+[2024-03-02 19:48:55,027] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\smtplib.py', reloading
+[2024-03-02 19:48:55,075] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\sndhdr.py', reloading
+[2024-03-02 19:48:55,107] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\socket.py', reloading
+[2024-03-02 19:48:55,175] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\socketserver.py', reloading
+[2024-03-02 19:48:55,199] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\sre_compile.py', reloading
+[2024-03-02 19:48:55,251] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\sre_constants.py', reloading
+[2024-03-02 19:48:55,275] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\sre_parse.py', reloading
+[2024-03-02 19:48:55,327] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\ssl.py', reloading
+[2024-03-02 19:48:55,383] 224 werkzeug -INFO  * Detected change in 'D:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\env\\Lib\\stat.py', reloading

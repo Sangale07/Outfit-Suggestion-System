@@ -1,0 +1,40 @@
+[2024-03-05 22:58:50,410] 96 werkzeug -WARNING  * Debugger is active!
+[2024-03-05 22:58:50,419] 96 werkzeug -INFO  * Debugger PIN: 274-803-487
+[2024-03-05 22:58:54,356] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 22:58:54] "GET / HTTP/1.1" 200 -
+[2024-03-05 22:58:54,895] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 22:58:54] "GET /video HTTP/1.1" 200 -
+[2024-03-05 22:59:21,708] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 22:59:21] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[2024-03-05 22:59:21,767] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 22:59:21] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-03-05 22:59:21,772] 96 werkzeug -ERROR Error on request:
+Traceback (most recent call last):
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\werkzeug\debug\__init__.py", line 330, in debug_application
+    app_iter = self.app(environ, start_response)
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\flask-3.0.2-py3.8.egg\flask\app.py", line 1488, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\flask-3.0.2-py3.8.egg\flask\app.py", line 1466, in wsgi_app
+    response = self.handle_exception(e)
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\flask-3.0.2-py3.8.egg\flask\app.py", line 1463, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\flask-3.0.2-py3.8.egg\flask\app.py", line 872, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\flask-3.0.2-py3.8.egg\flask\app.py", line 870, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\flask-3.0.2-py3.8.egg\flask\app.py", line 855, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\app.py", line 99, in predict_datapoint
+    data = CustomData(
+TypeError: __init__() missing 5 required positional arguments: 'shoulder', 'chest', 'waist', 'hips', and 'shoulder_to_waist'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\werkzeug\serving.py", line 362, in run_wsgi
+    execute(self.server.app)
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\werkzeug\serving.py", line 325, in execute
+    for data in application_iter:
+  File "D:\DevOps\Project\BE Project\Outfit Recommendation\env\lib\site-packages\werkzeug\debug\__init__.py", line 365, in debug_application
+    environ["wsgi.errors"].write("".join(tb.render_traceback_text()))
+OSError: [WinError 6] The handle is invalid
+[2024-03-05 22:59:21,776] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 22:59:21] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-03-05 22:59:21,825] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 22:59:21] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-05 22:59:21,850] 96 werkzeug -INFO 127.0.0.1 - - [05/Mar/2024 22:59:21] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-03-05 22:59:30,890] 96 werkzeug -INFO  * Detected change in 'd:\\devops\\project\\be project\\outfit recommendation\\app.py', reloading

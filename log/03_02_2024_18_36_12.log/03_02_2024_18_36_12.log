@@ -1,0 +1,8 @@
+[2024-03-02 18:36:12,733] 96 werkzeug -WARNING  * Debugger is active!
+[2024-03-02 18:36:12,738] 96 werkzeug -INFO  * Debugger PIN: 274-803-487
+[2024-03-02 18:36:46,970] 73 root -INFO Data Frame Gathered
+[2024-03-02 18:36:47,221] 96 werkzeug -INFO 127.0.0.1 - - [02/Mar/2024 18:36:47] "POST / HTTP/1.1" 200 -
+[2024-03-02 18:36:51,438] 96 werkzeug -INFO 127.0.0.1 - - [02/Mar/2024 18:36:51] "GET / HTTP/1.1" 200 -
+[2024-03-02 18:36:53,211] 96 werkzeug -INFO 127.0.0.1 - - [02/Mar/2024 18:36:53] "GET / HTTP/1.1" 200 -
+[2024-03-02 18:37:04,939] 73 root -INFO Data Frame Gathered
+[2024-03-02 18:37:04,994] 96 werkzeug -INFO 127.0.0.1 - - [02/Mar/2024 18:37:04] "POST / HTTP/1.1" 200 -

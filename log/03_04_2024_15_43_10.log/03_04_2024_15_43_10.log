@@ -1,0 +1,3 @@
+[2024-03-04 15:43:16,808] 96 werkzeug -WARNING  * Debugger is active!
+[2024-03-04 15:43:16,816] 96 werkzeug -INFO  * Debugger PIN: 274-803-487
+[2024-03-04 15:43:21,735] 96 werkzeug -INFO  * Detected change in 'd:\\DevOps\\Project\\BE Project\\Outfit Recommendation\\app.py', reloading

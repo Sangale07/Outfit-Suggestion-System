@@ -1,0 +1,17 @@
+[2024-03-04 15:29:35,345] 96 werkzeug -WARNING  * Debugger is active!
+[2024-03-04 15:29:35,350] 96 werkzeug -INFO  * Debugger PIN: 274-803-487
+[2024-03-04 15:29:36,174] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:29:36] "GET / HTTP/1.1" 200 -
+[2024-03-04 15:29:40,479] 73 root -INFO Data Frame Gathered
+[2024-03-04 15:29:40,662] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:29:40] "POST / HTTP/1.1" 200 -
+[2024-03-04 15:29:40,685] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:29:40] "[36mGET /static/Rectangular/1.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:29:40,692] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:29:40] "[36mGET /static/Rectangular/2.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:29:40,695] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:29:40] "[36mGET /static/Rectangular/3.jpg HTTP/1.1[0m" 304 -
+[2024-03-04 15:29:40,698] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:29:40] "[36mGET /static/Rectangular/4.png HTTP/1.1[0m" 304 -
+[2024-03-04 15:30:05,552] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:30:05] "GET / HTTP/1.1" 200 -
+[2024-03-04 15:30:45,436] 73 root -INFO Data Frame Gathered
+[2024-03-04 15:30:45,494] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:30:45] "POST / HTTP/1.1" 200 -
+[2024-03-04 15:30:45,532] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:30:45] "GET /static/Pear/2.png HTTP/1.1" 200 -
+[2024-03-04 15:30:45,533] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:30:45] "GET /static/Pear/1.jpg HTTP/1.1" 200 -
+[2024-03-04 15:30:45,534] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:30:45] "GET /static/Pear/3.png HTTP/1.1" 200 -
+[2024-03-04 15:30:45,535] 96 werkzeug -INFO 127.0.0.1 - - [04/Mar/2024 15:30:45] "GET /static/Pear/4.jpg HTTP/1.1" 200 -
+[2024-03-04 15:31:04,740] 96 werkzeug -INFO  * Detected change in 'd:\\devops\\project\\be project\\outfit recommendation\\app.py', reloading

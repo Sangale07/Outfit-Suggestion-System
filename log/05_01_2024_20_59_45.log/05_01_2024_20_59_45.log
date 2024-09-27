@@ -1,0 +1,7 @@
+[2024-05-01 20:59:53,181] 224 werkzeug -WARNING  * Debugger is active!
+[2024-05-01 20:59:53,196] 224 werkzeug -INFO  * Debugger PIN: 118-119-026
+[2024-05-01 21:03:56,596] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\numpy\\_typing\\_array_like.py', reloading
+[2024-05-01 21:03:56,619] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\numpy\\_typing\\_nested_sequence.py', reloading
+[2024-05-01 21:03:56,989] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\dataclasses.py', reloading
+[2024-05-01 21:03:57,194] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\numpy\\_typing\\_dtype_like.py', reloading
+[2024-05-01 21:03:57,227] 224 werkzeug -INFO  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\numpy\\_typing\\_shape.py', reloading

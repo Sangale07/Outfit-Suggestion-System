@@ -1,0 +1,7 @@
+[2024-03-02 18:17:33,404] 96 werkzeug -WARNING  * Debugger is active!
+[2024-03-02 18:17:33,411] 96 werkzeug -INFO  * Debugger PIN: 274-803-487
+[2024-03-02 18:17:37,836] 96 werkzeug -INFO 127.0.0.1 - - [02/Mar/2024 18:17:37] "GET / HTTP/1.1" 200 -
+[2024-03-02 18:17:47,728] 73 root -INFO Data Frame Gathered
+[2024-03-02 18:17:47,926] 96 werkzeug -INFO 127.0.0.1 - - [02/Mar/2024 18:17:47] "POST / HTTP/1.1" 200 -
+[2024-03-02 18:17:56,537] 96 werkzeug -INFO 127.0.0.1 - - [02/Mar/2024 18:17:56] "GET / HTTP/1.1" 200 -
+[2024-03-02 18:18:14,059] 96 werkzeug -INFO  * Detected change in 'd:\\devops\\project\\be project\\outfit recommendation\\app.py', reloading

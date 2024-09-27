@@ -1,0 +1,197 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Clothing Style Suggestions</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {background-color: #d0d6d6;font-family: 'Lexend Deca', Helvetica, sans-serif;}* {box-sizing: border-box;}
+   
+    input[type=text] {
+        width: 30%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        margin-top: 6px;
+        margin-bottom: 6px;
+        resize: vertical; 
+        font-family: 'Trebuchet MS', sans-serif;
+    }
+    input[type=submit] {
+        background-color: #202120;
+        color: white;
+        padding: 12px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        width: 230px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    input[type=submit]:hover {
+        background-color: hsl(123, 40%, 45%);
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        font-family: 'Trebuchet MS', sans-serif;
+    }
+    .form_wrapper {
+        flex:1;
+        text-align: center;
+    }
+
+    .container {
+        width: 60%;
+        border-radius: 5px;
+        background-color: #8d8f90;
+        padding: 20px;
+        display: flex; 
+        text-align: center;
+        margin-top: auto;
+        margin-bottom: auto;
+        margin: auto;
+        justify-content: center; 
+        align-items: center;
+    }
+    label {
+        display: inline-block;
+        width: 300px;
+        text-align: left;
+        font-family: 'Trebuchet MS', sans-serif, Helvetica, sans-serif;
+    }
+    div{
+        
+        margin-top: 2px;
+        margin-bottom: 2px;
+        margin-left: 2px;
+        margin-right: 2px;
+    }
+    .select{
+        width: 30%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        margin-top: 6px;
+        margin-bottom: 1px;
+        resize: vertical; 
+        margin-left: auto;
+        margin-right: auto;
+        font-family: 'Trebuchet MS', sans-serif;
+    }
+
+    h1 {
+        margin-top: 20px;
+        margin-bottom: 1px;
+        color: #343434;
+        font-size: 30px;
+        text-align: center;
+        font-weight: normal;
+        font-family: 'Trebuchet MS', sans-serif;
+        margin-top: 3px;
+        margin-bottom: 3px;
+        line-height: 10px;
+    }
+    h2 {
+        margin-top: 40px;
+        margin-bottom: 4px;
+        color: #343434;
+        font-size: 20px;
+        text-align: bottom;
+        font-weight: small;
+        font-family: 'Trebuchet MS', sans-serif;
+        margin-top: 10px;
+        margin-bottom: 6px;
+        line-height: 10px;
+        text-align: center;
+    }
+ 
+
+  #specialisation ,#workex,#hsc_s,#degree_t{
+        width: 30%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        margin-top: 4px;
+        margin-bottom: 6px;
+        resize: vertical; 
+        margin-left: auto;
+        margin-right: auto;
+        font-family: 'Trebuchet MS', sans-serif;
+  }
+   
+   
+   </style>    
+
+</head>
+
+<body>
+    <div class="login">
+        <br><br>
+        <h1>Clothing Style Suggestions</h1>
+        <br><br>
+
+        <div class="container">
+            <img src="{{ url_for('video') }}" width="60%"  />
+        </div>
+
+    <div class="container">
+        <form action="{{url_for('predict_datapoint')}}" method="POST">
+            
+            <div class="form-group">
+                <label for='Gender'>Gender:</label>
+                <input type="text" id='Gender' name='Gender' placeholder="Enter value">
+            </div>
+
+            <div class="form-group">
+                <label for='Age'>Age:</label>
+                <input type="text" id='Age'name='Age' placeholder="Enter value">
+            </div>
+
+            <!--   
+            <div class="form-group">
+                <label for='ShoulderWidth'>shoulder:</label>
+                <input type="text" id='ShoulderWidth' name='ShoulderWidth' placeholder="Enter value">
+            </div>
+
+
+
+            <div class="form-group">
+                <label for='ChestWidth '>Chest:</label>
+                <input type="text" id='ChestWidth ' name='ChestWidth ' placeholder="Enter value">
+            </div>
+
+            
+            <div class="form-group">
+                <label for='Waist '>Waist:</label>
+                <input type="text" id='Waist ' name='Waist ' placeholder="Enter value">
+            </div>
+
+            <div class="form-group">
+                <label for='Hips '>Hips:</label>
+                <input type="text" id='Hips ' name='Hips ' placeholder="Enter value">
+            </div>
+            
+            <div class="form-group">
+                <label for='ShoulderToWaist '>Shoulder To Waist:</label>
+                <input type="text" id='ShoulderToWaist ' name='ShoulderToWaist ' placeholder="Enter value">
+            </div>
+            -->
+            <div class="btn btn-primary btn-block btn-large">
+                <input type="submit" value="Submit" />
+            </div>
+           
+
+    
+</div>
+</div>
+
+
+</form>
+
+
+</body>
+
+</html>
